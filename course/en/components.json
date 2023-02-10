@@ -1,0 +1,6494 @@
+[
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63652a04d5517d180c8ca324",
+    "_parentId": "636529c94e4ad83058b453bd",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "background-colour2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Match the cyber threat to it's description.",
+    "displayTitle": "",
+    "body": "",
+    "_id": "637377425e0e6e35ab91ab32",
+    "_parentId": "63737735ca8f3861ecb6a376",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": true,
+    "placeholder": "...",
+    "_items": [
+      {
+        "text": "Cyber Criminals commit cyber-crime to...",
+        "_options": [
+          {
+            "text": "steal money.",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "cause mayhem and push an agenda.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "for recognition to show off their skills.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "cripple entire industries or even countries.",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Hacktivists commit cyber-crime to...",
+        "_options": [
+          {
+            "text": "steal money.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "cause mayhem and push an agenda.",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "gain recognition and show off their skills.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "cripple entire industries or countries.",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Glory Seekers commit cyber-crime to...",
+        "_options": [
+          {
+            "text": "steal money.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "cause mayhem and push an agenda.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "gain recognition and show off their skills.",
+            "_isCorrect": true,
+            "_score": 1
+          },
+          {
+            "text": "cripple entire industries or countries.",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Nation State Affiliates commit cyber crime to...",
+        "_options": [
+          {
+            "text": "steal money.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "cause mayhem and push an agenda.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "gain recognition and show off their skills.",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "cripple entire industries and countries.",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.;</p><p>&nbsp;</p><ul><li>Cyber Criminals steal money.</li><li>Hacktivists cause mayhem and push an agenda</li><li>Glory seekers look for recognition of their skills</li><li>Nation State Affiliates may look to cripple industries and entire countries.</li></ul>",
+        "notFinal": "<p>That's not quite right, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "True or False: \"North Tyneside Council is under cyber-attack 24/7\"",
+    "displayTitle": "True or False: \"North Tyneside Council is under cyber-attack 24/7\"",
+    "body": "",
+    "_id": "63737da4e969fe4e0deadfbd",
+    "_parentId": "63652a65154b9218320fa494",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose \"True\" or \"False\" below",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/63737e063939635d4046e925.png",
+          "small": "course/en/assets/63737e063939635d4046e925.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "True",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/63737e3a76ecae6a6ee958e1.png",
+          "small": "course/en/assets/63737e3a76ecae6a6ee958e1.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "False",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>It's <strong>True</strong>!<br><br>North Tyneside Council is under cyber-attack, all day, every day.<br><br>IT works very hard to keep our information safe and secure from these attacks.</p>",
+      "_incorrect": {
+        "final": "<p>It's <strong>True</strong>!<br><br>It's true that North Tyneside Council is under cyber-attack, all day, every day.</p><p>&nbsp;</p><p>IT works very hard to keep our information safe and secure from these attacks.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6373b4f7998d855659df6ea8",
+    "_parentId": "6373b4e85e0e6e35ab91b0c7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6373b79bd9b424e7a4b7b99f.png",
+      "small": "course/en/assets/6373b79bd9b424e7a4b7b99f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "fillInTheBlanks",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Fill in the blanks",
+    "displayTitle": "Fill in the blanks",
+    "body": "",
+    "_id": "6373bcc4e969fe4e0deaec47",
+    "_parentId": "6373bcab77564056bb6792f0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "textBlock": "<p>The biggest threat to North Tyneside Council's systems' security is %?%.<br><br>That's why cyber security is %?% responsibility.</p>",
+    "_items": [
+      {
+        "_controlType": "Dropdown",
+        "_answers": [
+          {
+            "_answer": "Cyber Criminals",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "Hacktivists",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "Glory Seekers",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "Nation State Affiliates",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "You (NTC staff)",
+            "_isCorrect": true
+          }
+        ],
+        "_characters": 0
+      },
+      {
+        "_controlType": "Dropdown",
+        "_answers": [
+          {
+            "_answer": "your",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "your boss's",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "everyone's",
+            "_isCorrect": true
+          }
+        ],
+        "_characters": 0
+      }
+    ],
+    "_placeholderCharacters": " _",
+    "_useValidationColors": true,
+    "_useClassicStyle": false,
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6374ce6f6bdf037dd6ee9237",
+    "_parentId": "6374ce6c5e0e6e35ab91b7a9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6374d9c6f42a096789f5d529",
+    "_parentId": "6374d9bfe2f6da61392d6dea",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6374daf7ca8f3861ecb6b582",
+    "_parentId": "6374daeb6bdf037dd6ee9265",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6374db616bdf037dd6ee9268",
+    "_parentId": "6374db616bdf037dd6ee9267",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6374db6f30296011e6ec672f",
+    "_parentId": "6374db6f30296011e6ec672e",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6374e61277564056bb679763",
+    "_parentId": "6373bb37f42a096789f5ceb4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6374e61ff7b7f38dd3a10d31.png",
+      "small": "course/en/assets/6374e61ff7b7f38dd3a10d31.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6374ffdfe969fe4e0deaf4aa",
+    "_parentId": "6374ffdfe969fe4e0deaf4a9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63887a29210154566f80bcd5.png",
+      "small": "course/en/assets/63887a29210154566f80bcd5.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Media",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6387756fc3c95077056f3005",
+    "_parentId": "63652a0853e27817ed04c278",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/63d285b628fcfb2479eeeb00.m4v",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": null,
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "638878d9ed3df76d45c62467",
+    "_parentId": "638878d9ed3df76d45c62465",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "638878eded3df76d45c6246b",
+    "_parentId": "638878eded3df76d45c6246a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6388790165b83d5bdaf0788b",
+    "_parentId": "6388790165b83d5bdaf07888",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63887911c3c95077056f342f",
+    "_parentId": "63887911c3c95077056f342e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6388792294d2b36d3e1be0fb",
+    "_parentId": "6388792294d2b36d3e1be0f9",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63887a4588ed3876e2fa2223",
+    "_parentId": "63887a3cf9b581463f7565c6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63887a508574f4a1d4055e33.png",
+      "small": "course/en/assets/63887a508574f4a1d4055e33.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63887a7694d2b36d3e1be0ff",
+    "_parentId": "63887a64108d35475c57cea5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63887a842e6b74185e7a440c.png",
+      "small": "course/en/assets/63887a842e6b74185e7a440c.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What does GDPR stand for?",
+    "displayTitle": "What does GDPR stand for?",
+    "body": "",
+    "_id": "63887b4a17a5f26d1f638b83",
+    "_parentId": "638878d9ed3df76d45c62466",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The Generic Data Pass Rules",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The General Data Protection Regulation",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "The Genuine Data Protocol Registration ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct!<br><br>The General Data Protection Regulation is a European data protection law that gives individuals more control over their personal information and businesses specific rules on how to handle that data.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.<br><br>It stands for:<br>The General Data Protection Regulation,<br>&nbsp;a European data protection law that gives individuals more control over their personal information and businesses specific rules on how to handle that data.</p>",
+        "notFinal": "<p>That's not quite right, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63887e2b64c452479b3c8b27",
+    "_parentId": "638878d9ed3df76d45c62466",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63887e360d4637dc55cd4677.png",
+      "small": "course/en/assets/63887e360d4637dc55cd4677.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6388872e64c452479b3c8d4b",
+    "_parentId": "6388792294d2b36d3e1be0fa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63905dde4e4cb41cfcfea84a.png",
+      "small": "course/en/assets/63905dde4e4cb41cfcfea84a.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "638891d1ed3df76d45c6252c",
+    "_parentId": "63692e8cf0c4f52fb401c40e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/638891ded7f722d2577c940e.png",
+      "small": "course/en/assets/638891ded7f722d2577c940e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6388920750a46676bea4752b",
+    "_parentId": "6388920650a46676bea4752a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/638892268574f4a1d4055e3f.png",
+      "small": "course/en/assets/638892268574f4a1d4055e3f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6388924650a46676bea4752f",
+    "_parentId": "6388924650a46676bea4752d",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63889254108d35475c57d01a",
+    "_parentId": "63889253108d35475c57d019",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "6388927350a46676bea47535",
+    "_parentId": "6388927350a46676bea47534",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63889287f9d596615612efe8",
+    "_parentId": "63889287f9d596615612efe6",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63889287f9d596615612efe9",
+    "_parentId": "63889287f9d596615612efe7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "small": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Health, sex life, criminal behaviour, race, ethnicity, religious beliefs, political opinions and trade union membership are all special pieces of personal data. What are they called?",
+    "displayTitle": "Health, sex life, criminal behaviour, race, ethnicity, religious beliefs, political opinions and trade union membership are all special pieces of personal data. What are they called?",
+    "body": "",
+    "_id": "638892aded3df76d45c6252d",
+    "_parentId": "6388792294d2b36d3e1be0fa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Sensitive Data",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>That's right, these are all examples of sensitive data.&nbsp;<br><br><br>Sensitive data needs extra protection.</p>",
+        "_score": 1
+      },
+      {
+        "text": "Unique Data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Trusted Data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Malicious Data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's right!<br><br>That's right, these are all examples of sensitive data.&nbsp; Sensitive data needs extra protection.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.<br><br>these are all examples of sensitive data.&nbsp; Sensitive data needs extra protection.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphical Multiple Choice Question",
+    "displayTitle": "",
+    "body": "<p>You've been asked by your boss to design a survey to find out who is using a North Tyneside Council office carpark and what they are using it for.</p><p>&nbsp;</p><p>Which of the questionnaires below would be most appropriate to use?</p>",
+    "_id": "638897cded3df76d45c62533",
+    "_parentId": "6388940865b83d5bdaf078a7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/63889853a32219e9323af1e1.png",
+          "small": "course/en/assets/63889853a32219e9323af1e1.png",
+          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit ",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/638898a15b2381177df3844e.png",
+          "small": "course/en/assets/638898a15b2381177df3844e.png",
+          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit, Religion ",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct!<br><br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.<br><br>That survey is collecting more data that is needed.<br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "yesNo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Yes/No",
+    "displayTitle": "",
+    "body": "",
+    "_id": "638f1c2f47ee763c22590859",
+    "_parentId": "6388790165b83d5bdaf07889",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_feedback": {
+      "instruction": "",
+      "_correct": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      },
+      "_partlyCorrect": {
+        "title": "",
+        "text": ""
+      },
+      "_incorrect": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      }
+    },
+    "_useClassicFeedback": false,
+    "timerSeconds": 30,
+    "_disableFlashingTimer": false,
+    "_disableTimer": false,
+    "_displayImagesOn": "Right",
+    "_images": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883fa1c64bd797b3f22f4.png",
+          "alt": "Passport Infomation"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>This <strong>is </strong>personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883fac5252ade9d8281b7.png",
+          "alt": "Football Scores"
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>This <strong>is not</strong> personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883faa32219e9323af1dd.png",
+          "alt": "Dental Records"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>This <strong>is </strong>personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883fae25d0c6c87b1277a.png",
+          "alt": "National Insurance Number"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>This <strong>is</strong> personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883fa8574f4a1d4055e38.png",
+          "alt": "Favourite Colour"
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>This <strong>is not </strong>personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883fad7f722d2577c9407.png",
+          "alt": "Date Of Birth"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>This <strong>is </strong>personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883faa8c54c5f78e47684.png",
+          "alt": "Weather Forecast"
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>This<strong> is not </strong>personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883fac166ba538535ad5b.png",
+          "alt": "Address"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>This <strong>is </strong>personal data.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/638883fa0d4637dc55cd4678.png",
+          "alt": "Photograph"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>This <strong>is</strong> personal data.</p>"
+      }
+    ],
+    "_buttons": {
+      "_disableIcons": false,
+      "_yes": {
+        "buttonText": "Yes",
+        "ariaLabel": "Yes",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      "_no": {
+        "buttonText": "No",
+        "ariaLabel": "No",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      "_start": {
+        "buttonText": "Start",
+        "ariaLabel": "Start"
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": "Reset"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "body": "",
+    "_id": "638f68cbdfe4fd2979687de6",
+    "_parentId": "63889287f9d596615612efe7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that are correct",
+    "_items": [
+      {
+        "text": "Ask for them to send the data back immediately.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Contact Information Governance as soon as possible.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Correct,&nbsp;<br><br>Information Governance should be contacted if you suspect a data breech.<br><br>They can be reached via email:<br>infomation.governance@northtyneside.gov.uk</p>",
+        "_score": 1
+      },
+      {
+        "text": "Wait for the customer's to realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Send the correct information as soon as you realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "638f69b71057f541a6be519a",
+    "_parentId": "63889263f9b581463f75671f",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Guy with requests",
+    "displayTitle": "",
+    "body": "<p>One of our customers contacts you and has a number of requests.&nbsp;<br><br>Click or tap on the requests that we are legally required to assist them with.</p>",
+    "_id": "638f6d0047ee763c22590d32",
+    "_parentId": "638f69c16feb490fc220c5fd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/638f6f1c688f802570164a5e.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 265,
+        "_top": 7,
+        "_width": 211,
+        "_height": 93
+      },
+      {
+        "_left": 518.1007080078125,
+        "_top": 0.986114501953125,
+        "_width": 210,
+        "_height": 92.9792
+      },
+      {
+        "_left": 512.111083984375,
+        "_top": 103.99652099609375,
+        "_width": 207,
+        "_height": 94
+      },
+      {
+        "_left": 512.1007080078125,
+        "_top": 212.99655151367188,
+        "_width": 203,
+        "_height": 91
+      },
+      {
+        "_left": 265,
+        "_top": 213,
+        "_width": 238,
+        "_height": 100
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>You are partially correct. Try again.</p>",
+        "final": "<p>You're partially correct.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.<br><br>&nbsp;</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That's not quite right. Try again.<br><br>&nbsp;</p>",
+        "final": "<p>That's incorrect.&nbsp;&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.&nbsp;&nbsp;<br><br><br><br>&nbsp;</p>"
+      },
+      "correct": "<p>That's right.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.<br><br>&nbsp;</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906a85c4743372e4dc747d",
+    "_parentId": "63906a85c4743372e4dc747c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906a92688f802570164a6e.png",
+      "small": "course/en/assets/63906a92688f802570164a6e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906ad49722740c743a3353",
+    "_parentId": "63906ad49722740c743a3352",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906ae2a3ca4b86f85c95d0.png",
+      "small": "course/en/assets/63906ae2a3ca4b86f85c95d0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906b20ae34bc3f2b1524c2",
+    "_parentId": "63906b20ae34bc3f2b1524c1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906b2bc33763da7ce47a37.png",
+      "small": "course/en/assets/63906b2bc33763da7ce47a37.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906b635d9a9c0d271d3bca",
+    "_parentId": "63906b635d9a9c0d271d3bc9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906b714f22ceabb93a13c5.png",
+      "small": "course/en/assets/63906b714f22ceabb93a13c5.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906bbe57b7113f605e672f",
+    "_parentId": "63906bbe57b7113f605e672e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906b96b8ec7a02dec78e1b.png",
+      "small": "course/en/assets/63906b96b8ec7a02dec78e1b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906c5a9722740c743a3364",
+    "_parentId": "63906c599722740c743a335b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906a52c33763da7ce47a36.png",
+      "small": "course/en/assets/63906a52c33763da7ce47a36.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906c5a9722740c743a3365",
+    "_parentId": "63906c599722740c743a335c",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906c5a9722740c743a3367",
+    "_parentId": "63906c599722740c743a335e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906c5a9722740c743a3368",
+    "_parentId": "63906c5a9722740c743a335f",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906c5a9722740c743a336a",
+    "_parentId": "63906c5a9722740c743a3361",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906c5a9722740c743a336b",
+    "_parentId": "63906c5a9722740c743a3362",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906ca53928dd328d802bc0",
+    "_parentId": "63906ca53928dd328d802bb7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906abad2b3bf5aef9cc577.png",
+      "small": "course/en/assets/63906abad2b3bf5aef9cc577.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906ca53928dd328d802bc1",
+    "_parentId": "63906ca53928dd328d802bb8",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906ca53928dd328d802bc3",
+    "_parentId": "63906ca53928dd328d802bba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906ca53928dd328d802bc4",
+    "_parentId": "63906ca53928dd328d802bbb",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906ca53928dd328d802bc6",
+    "_parentId": "63906ca53928dd328d802bbd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906ca53928dd328d802bc7",
+    "_parentId": "63906ca53928dd328d802bbe",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906cdff48c9c28b00b335e",
+    "_parentId": "63906cdef48c9c28b00b3355",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906b0a72ae393b9aaddad1.png",
+      "small": "course/en/assets/63906b0a72ae393b9aaddad1.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906cdff48c9c28b00b335f",
+    "_parentId": "63906cdef48c9c28b00b3356",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906cdff48c9c28b00b3361",
+    "_parentId": "63906cdff48c9c28b00b3358",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906cdff48c9c28b00b3362",
+    "_parentId": "63906cdff48c9c28b00b3359",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906cdff48c9c28b00b3364",
+    "_parentId": "63906cdff48c9c28b00b335b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906cdff48c9c28b00b3365",
+    "_parentId": "63906cdff48c9c28b00b335c",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why should you be concerned about this message from a friend on social media?",
+    "displayTitle": "Why should you be concerned about this message from a friend on social media?",
+    "body": "",
+    "_id": "63906cdff48c9c28b00b3367",
+    "_parentId": "63906cdff48c9c28b00b335d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "You may not be able to make the payment in time.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Your friend's profile may have been hacked.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Correct,&nbsp;<br>&nbsp;</p><p>Your friend's profile may have been compromised, this could be a cyber criminal impersonating them so that you will send them money.</p>",
+        "_score": 1
+      },
+      {
+        "text": "Your friend is in trouble",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Sending payment information is a security risk.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct.&nbsp;<br><br>You can't be sure that other people's profiles are secure and haven't been compromised.<br><br>If in doubt, call your friend or speak to them in person. Make sure that it's them.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. You can't be sure that other people's profiles are secure and haven't been compromised. If in doubt, call your friend or speak to them in person. Make sure that it's them.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c0",
+    "_parentId": "63906d1b86cb843f201693b7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906b4e85b1fd17720177e9.png",
+      "small": "course/en/assets/63906b4e85b1fd17720177e9.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c1",
+    "_parentId": "63906d1c86cb843f201693b8",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphical Multiple Choice Question",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c2",
+    "_parentId": "63906d1c86cb843f201693b9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/63bd4a6f82ee487e1313197f.png",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "That's right. This will automatically connect you to the VPN, ensuring that your connection is secure and safe.",
+        "_score": 1
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/63bd4aa12cdf8b4e84e9c456.png",
+          "small": "course/en/assets/63bd4aa12cdf8b4e84e9c456.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "That's incorrect. This doesn't connect you to the VPN, so your laptop is vulnerable, anyone could be looking at what you are doing via the coffee shop wifi",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct!<br>&nbsp;</p><p>This icon connects us to the VPN, ensuring that no one else can snoop at what you are doing via the coffee shop wifi.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.<br>This icon does not connect us to the VPN, cyber criminals could snoop at what you are doing via the coffee shop wifi.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c3",
+    "_parentId": "63906d1c86cb843f201693ba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c4",
+    "_parentId": "63906d1c86cb843f201693bb",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c6",
+    "_parentId": "63906d1c86cb843f201693bd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c7",
+    "_parentId": "63906d1c86cb843f201693be",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c8",
+    "_parentId": "63906d1c86cb843f201693bf",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "small": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "body": "",
+    "_id": "63906d1c86cb843f201693c9",
+    "_parentId": "63906d1c86cb843f201693bf",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that are correct",
+    "_items": [
+      {
+        "text": "Ask for them to send the data back immediately.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Contact Information Governance as soon as possible.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Correct,&nbsp;<br><br>Information Governance should be contacted if you suspect a data breech.<br><br>They can be reached via email:<br>infomation.governance@northtyneside.gov.uk</p>",
+        "_score": 1
+      },
+      {
+        "text": "Wait for the customer's to realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Send the correct information as soon as you realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906d53c4743372e4dc749b",
+    "_parentId": "63906d53c4743372e4dc7492",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906ba94c928e52c8c0bc27.png",
+      "small": "course/en/assets/63906ba94c928e52c8c0bc27.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d53c4743372e4dc749c",
+    "_parentId": "63906d53c4743372e4dc7493",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphical Multiple Choice Question",
+    "displayTitle": "",
+    "body": "<p>You've been asked by your boss to design a survey to find out who is using a North Tyneside Council office carpark and what they are using it for.</p><p>&nbsp;</p><p>Which of the questionnaires below would be most appropriate to use?</p>",
+    "_id": "63906d53c4743372e4dc749d",
+    "_parentId": "63906d53c4743372e4dc7494",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/63889853a32219e9323af1e1.png",
+          "small": "course/en/assets/63889853a32219e9323af1e1.png",
+          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit ",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/638898a15b2381177df3844e.png",
+          "small": "course/en/assets/638898a15b2381177df3844e.png",
+          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit, Religion ",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct!<br><br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.<br><br>That survey is collecting more data that is needed.<br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d53c4743372e4dc749e",
+    "_parentId": "63906d53c4743372e4dc7495",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d53c4743372e4dc749f",
+    "_parentId": "63906d53c4743372e4dc7496",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Guy with requests",
+    "displayTitle": "",
+    "body": "<p>One of our customers contacts you and has a number of requests.&nbsp;<br><br>Click or tap on the requests that we are legally required to assist them with.</p>",
+    "_id": "63906d53c4743372e4dc74a0",
+    "_parentId": "63906d53c4743372e4dc7497",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/638f6f1c688f802570164a5e.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 265,
+        "_top": 7,
+        "_width": 211,
+        "_height": 93
+      },
+      {
+        "_left": 518.1007080078125,
+        "_top": 0.986114501953125,
+        "_width": 210,
+        "_height": 92.9792
+      },
+      {
+        "_left": 512.111083984375,
+        "_top": 103.99652099609375,
+        "_width": 207,
+        "_height": 94
+      },
+      {
+        "_left": 512.1007080078125,
+        "_top": 212.99655151367188,
+        "_width": 203,
+        "_height": 91
+      },
+      {
+        "_left": 265,
+        "_top": 213,
+        "_width": 238,
+        "_height": 100
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>You are partially correct. Try again.</p>",
+        "final": "<p>You're partially correct.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That's not quite right. Try again.</p>",
+        "final": "<p>That's incorrect.<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
+      },
+      "correct": "<p>That's right.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d53c4743372e4dc74a1",
+    "_parentId": "63906d53c4743372e4dc7498",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906d53c4743372e4dc74a2",
+    "_parentId": "63906d53c4743372e4dc7499",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906d53c4743372e4dc74a3",
+    "_parentId": "63906d53c4743372e4dc749a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "small": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "body": "",
+    "_id": "63906d53c4743372e4dc74a4",
+    "_parentId": "63906d53c4743372e4dc749a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that are correct",
+    "_items": [
+      {
+        "text": "Ask for them to send the data back immediately.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Contact Information Governance as soon as possible.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Correct,&nbsp;<br><br>Information Governance should be contacted if you suspect a data breech.<br><br>They can be reached via email:<br>infomation.governance@northtyneside.gov.uk</p>",
+        "_score": 1
+      },
+      {
+        "text": "Wait for the customer's to realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Send the correct information as soon as you realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906db19722740c743a337f",
+    "_parentId": "63906db09722740c743a3376",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906be3a3ca4b86f85c95d1.png",
+      "small": "course/en/assets/63906be3a3ca4b86f85c95d1.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906db19722740c743a3380",
+    "_parentId": "63906db09722740c743a3377",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphical Multiple Choice Question",
+    "displayTitle": "",
+    "body": "<p>You've been asked by your boss to design a survey to find out who is using a North Tyneside Council office carpark and what they are using it for.</p><p>&nbsp;</p><p>Which of the questionnaires below would be most appropriate to use?</p>",
+    "_id": "63906db19722740c743a3381",
+    "_parentId": "63906db19722740c743a3378",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/63889853a32219e9323af1e1.png",
+          "small": "course/en/assets/63889853a32219e9323af1e1.png",
+          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit ",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/638898a15b2381177df3844e.png",
+          "small": "course/en/assets/638898a15b2381177df3844e.png",
+          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit, Religion ",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct!<br><br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.<br><br>That survey is collecting more data that is needed.<br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906db19722740c743a3382",
+    "_parentId": "63906db19722740c743a3379",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906db19722740c743a3383",
+    "_parentId": "63906db19722740c743a337a",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Guy with requests",
+    "displayTitle": "",
+    "body": "<p>One of our customers contacts you and has a number of requests.&nbsp;<br><br>Click or tap on the requests that we are legally required to assist them with.</p>",
+    "_id": "63906db19722740c743a3384",
+    "_parentId": "63906db19722740c743a337b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_attempts": 2,
+    "_shouldDisplayAttempts": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/638f6f1c688f802570164a5e.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 265,
+        "_top": 7,
+        "_width": 211,
+        "_height": 93
+      },
+      {
+        "_left": 518.1007080078125,
+        "_top": 0.986114501953125,
+        "_width": 210,
+        "_height": 92.9792
+      },
+      {
+        "_left": 512.111083984375,
+        "_top": 103.99652099609375,
+        "_width": 207,
+        "_height": 94
+      },
+      {
+        "_left": 512.1007080078125,
+        "_top": 212.99655151367188,
+        "_width": 203,
+        "_height": 91
+      },
+      {
+        "_left": 265,
+        "_top": 213,
+        "_width": 238,
+        "_height": 100
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>You are partially correct. Try again.</p>",
+        "final": "<p>You're partially correct.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That's not quite right. Try again.</p>",
+        "final": "<p>That's incorrect.<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
+      },
+      "correct": "<p>That's right.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906db19722740c743a3385",
+    "_parentId": "63906db19722740c743a337c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63906db19722740c743a3386",
+    "_parentId": "63906db19722740c743a337d",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63906db19722740c743a3387",
+    "_parentId": "63906db19722740c743a337e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "small": "course/en/assets/6390606e72ae393b9aaddacf.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
+    "body": "",
+    "_id": "63906db19722740c743a3388",
+    "_parentId": "63906db19722740c743a337e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that are correct",
+    "_items": [
+      {
+        "text": "Ask for them to send the data back immediately.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Contact Information Governance as soon as possible.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "<p>Correct,&nbsp;<br><br>Information Governance should be contacted if you suspect a data breech.<br><br>They can be reached via email:<br>infomation.governance@northtyneside.gov.uk</p>",
+        "_score": 1
+      },
+      {
+        "text": "Wait for the customer's to realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Send the correct information as soon as you realise the mistake.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Spot the 3 mistakes made in the image below.",
+    "displayTitle": "Spot the 3 mistakes made in the image below.",
+    "body": "",
+    "_id": "63909981f48c9c28b00b3393",
+    "_parentId": "63906c599722740c743a335d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the mistakes.",
+    "mobileInstruction": "Tap on the mistakes.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/639099b34bffb20679a55291.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 166,
+        "_top": 32,
+        "_width": 323,
+        "_height": 224
+      },
+      {
+        "_left": 546,
+        "_top": 39,
+        "_width": 275,
+        "_height": 110
+      },
+      {
+        "_left": 832.111083984375,
+        "_top": 53.99305725097656,
+        "_width": 170.969,
+        "_height": 161.976
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>That's incorrect.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/90/639099fdc33763da7ce47a3e.png\" alt=\"Laptop with widows open and a postit on the monitor\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>",
+        "final": "<p>That's not quite right.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/90/639099fdc33763da7ce47a3e.png\" alt=\"Laptop with widows open and a postit on the monitor\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That's not quite right</p>",
+        "final": "<p>That's incorrect.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/90/639099fdc33763da7ce47a3e.png\" alt=\"Laptop with widows open and a postit on the monitor\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>"
+      },
+      "correct": "<p>That's correct.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/90/639099fdc33763da7ce47a3e.png\" alt=\"Laptop with widows open and a postit on the monitor\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "stacker",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Password Stacker",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6390a1a998238b28852efe09",
+    "_parentId": "63906c5a9722740c743a3360",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Order the passwords below. (strongest at the top, weakest at the bottom)",
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 2,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldUseOrdering": false,
+    "_shouldUseSliding": true,
+    "_items": [
+      {
+        "_options": [
+          {
+            "text": "NewcastleD@vid",
+            "image": "course/en/assets/6390a7434f22ceabb93a13d6.png",
+            "_isCorrect": false,
+            "alt": "NewcastleD@vid"
+          },
+          {
+            "text": "pretty.teapot.ball",
+            "image": "course/en/assets/6390a7204bffb20679a55295.png",
+            "_isCorrect": false,
+            "alt": "pretty.teapot.ball"
+          },
+          {
+            "text": "Mavis13",
+            "image": "course/en/assets/6390a77e4f22ceabb93a13d7.png",
+            "_isCorrect": false,
+            "alt": "Mavis13"
+          },
+          {
+            "text": "RZH4#DcbSh117q",
+            "image": "course/en/assets/6390a6e4e609fb86ffb4c721.png",
+            "_isCorrect": true,
+            "alt": "RZH4#DcbSh117q"
+          }
+        ]
+      },
+      {
+        "_options": [
+          {
+            "text": "pretty.teapot.ball",
+            "image": "course/en/assets/6390a7204bffb20679a55295.png",
+            "_isCorrect": true,
+            "alt": "pretty.teapot.ball"
+          },
+          {
+            "text": "Mavis13",
+            "image": "course/en/assets/6390a77e4f22ceabb93a13d7.png",
+            "_isCorrect": false,
+            "alt": "Mavis13"
+          },
+          {
+            "text": "RZH$#DcbSh117q",
+            "image": "course/en/assets/6390a6e4e609fb86ffb4c721.png",
+            "_isCorrect": false,
+            "alt": "RZH$#DcbSh117q"
+          },
+          {
+            "text": "NewcastleD@vid",
+            "image": "course/en/assets/6390a7434f22ceabb93a13d6.png",
+            "_isCorrect": false,
+            "alt": "NewcastleD@vid"
+          }
+        ]
+      },
+      {
+        "_options": [
+          {
+            "text": "Mavis13",
+            "image": "course/en/assets/6390a77e4f22ceabb93a13d7.png",
+            "_isCorrect": false,
+            "alt": "Mavis13"
+          },
+          {
+            "text": "RZH$#DcbSh117q",
+            "image": "course/en/assets/6390a6e4e609fb86ffb4c721.png",
+            "_isCorrect": false,
+            "alt": "RZH$#DcbSh117q"
+          },
+          {
+            "text": "NewcastleD@vid",
+            "image": "course/en/assets/6390a7434f22ceabb93a13d6.png",
+            "_isCorrect": true,
+            "alt": "NewcastleD@vid"
+          },
+          {
+            "text": "pretty.teapot.ball",
+            "image": "course/en/assets/6390a7204bffb20679a55295.png",
+            "_isCorrect": false,
+            "alt": "pretty.teapot.ball"
+          }
+        ]
+      },
+      {
+        "_options": [
+          {
+            "text": "RZH$#DcbSh117q",
+            "image": "course/en/assets/6390a6e4e609fb86ffb4c721.png",
+            "_isCorrect": false,
+            "alt": "RZH$#DcbSh117q"
+          },
+          {
+            "text": "",
+            "image": "course/en/assets/6390a7204bffb20679a55295.png",
+            "_isCorrect": false,
+            "alt": ""
+          },
+          {
+            "text": "RZH$#DcbSh117q",
+            "image": "course/en/assets/6390a6e4e609fb86ffb4c721.png",
+            "_isCorrect": false,
+            "alt": "RZH$#DcbSh117q"
+          },
+          {
+            "text": "Mavis13",
+            "image": "course/en/assets/6390a77e4f22ceabb93a13d7.png",
+            "_isCorrect": true,
+            "alt": "Mavis13"
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct!<br><br><strong>RZH$#DcbSh117q</strong><br>This is a very strong password, long and random!<br><br><strong>pretty.teapot.ball</strong></p><p>This is quite a strong password, it's long, and none of the words relate to each other or you.</p><p>&nbsp;</p><p><strong>Newcastle.D@vid</strong></p><p>Although this password is long, it is made up of easily guessable information (the person's name and home city)<br><br><strong>Mavis13</strong></p><p>This password is very weak, it's short and easily guessable. (It's likely Mavis' 13th password...)</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.&nbsp;<br><br><strong>RZH$#DcbSh117q</strong>&nbsp;<br>This is a very strong password, long and random!&nbsp;<br><br><strong>pretty.teapot.ball</strong></p><p>This is quite a strong password, it's long, and none of the words relate to each other or you.</p><p>&nbsp;</p><p><strong>Newcastle.D@vid</strong></p><p>Although this password is long, it is made up of easily guessable information (the person's name and home city)&nbsp;<br><br><strong>Mavis13</strong></p><p>This password is very weak, it's short and easily guessable. (It's likely Mavis' 13th password...)</p>",
+        "notFinal": "<p>That's not quite right, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>That's not quite right.&nbsp;<br><br><strong>RZH$#DcbSh117q</strong>&nbsp;<br>This is a very strong password, long and random!&nbsp;<br><br><strong>pretty.teapot.ball</strong></p><p>This is quite a strong password, it's long, and none of the words relate to each other or you.</p><p>&nbsp;</p><p><strong>Newcastle.D@vid</strong></p><p>Although this password is long, it is made up of easily guessable information (the person's name and home city)&nbsp;<br><br><strong>Mavis13</strong></p><p>This password is very weak, it's short and easily guessable. (It's likely Mavis' 13th password...)</p>",
+        "notFinal": "<p>That's not quite right, try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "yesNo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "\"Do\"s and \"Don't\"s",
+    "displayTitle": "\"Do\"s and \"Don't\"s",
+    "body": "<p>There are rules and practices around keeping our passwords and systems as securely as possible.&nbsp;<br><br>Select \"Do\" or \"Don't\" for the following practices.</p>",
+    "_id": "63bbddf56ae3612459860d0e",
+    "_parentId": "63906c5a9722740c743a3363",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_feedback": {
+      "instruction": "",
+      "_correct": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      },
+      "_partlyCorrect": {
+        "title": "",
+        "text": ""
+      },
+      "_incorrect": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      }
+    },
+    "_useClassicFeedback": false,
+    "timerSeconds": 30,
+    "_disableFlashingTimer": false,
+    "_disableTimer": false,
+    "_displayImagesOn": "Right",
+    "_images": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf014382ed575d78ad6ae.png",
+          "alt": "Use A Different Password For Each System"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>Passwords are like keys. You should have a different one for each door (system).</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf013be85dc289c2212d2.png",
+          "alt": "Log Out Of Systems When Finished"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>This avoids the next user of the device having access to your account.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf014b7545d9594756c19.png",
+          "alt": "Make Passwords Long"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>Long passwords are strong passwords. The longer, the better.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf01430a9ccceaa4dd578.png",
+          "alt": "Change Passwords Regularly"
+        },
+        "_shouldBeSelected": true,
+        "feedback": "<p>Change passwords often, especially if you suspect it is compromised.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf0144801b6f873d9729b.png",
+          "alt": "Use Personal Information In Your Passwords"
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>Personal Information is easily guessed when trying to hack a password.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf014fc33e5f91f1b34cb.png",
+          "alt": "Use repeating or sequences of characters."
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>Computers used for hacking, can test these patterns very easily. Random is best.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf014cae1b9781c8c1680.png",
+          "alt": ""
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>Passwords that are written down can be easily found. read and used by hackers and cyber criminals.</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf014cc507b2b8e41750f.png",
+          "alt": "Share your password and accounts with others."
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>You are responsible for your passwords and accounts. Only you should have access to them.&nbsp;</p>"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63bbf01408ebb91e08477742.png",
+          "alt": "Add a number to an old password."
+        },
+        "_shouldBeSelected": false,
+        "feedback": "<p>Adding a number to a compromised or old password, does not make it any stronger/ harder to crack.</p>"
+      }
+    ],
+    "_buttons": {
+      "_disableIcons": false,
+      "_yes": {
+        "buttonText": "Do",
+        "ariaLabel": "Do",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      "_no": {
+        "buttonText": "Don't",
+        "ariaLabel": "Don't",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      "_start": {
+        "buttonText": "Start",
+        "ariaLabel": "Start"
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": "Reset"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Multiple Choice Question",
+    "displayTitle": "",
+    "body": "<p>The best rule for keeping yourself safe online is to keep any eye out for anything that \"JDLR\".<br>But what does JDLR stand for?<br>&nbsp;</p>",
+    "_id": "63bbf16d7c4fa7366010527b",
+    "_parentId": "63906ca53928dd328d802bb9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Just Doesn't Look Right",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Justified Direct Length Regulation",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Just Denies Looking Real",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Jargon Displayed with Lower Regularity",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Select suspicious parts of the image below.",
+    "displayTitle": "Select suspicious parts of the image below.",
+    "body": "<p>A colleague asks you to check a website for them. When you get to the website, it asks you to log in with your email account.<br><br>Click on anything that just doesn't look right and that you believe you should be suspicious of</p>",
+    "_id": "63bbf52c7c4fa73660105280",
+    "_parentId": "63bbf52c7c4fa7366010527f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the mistakes.",
+    "mobileInstruction": "Tap on the mistakes.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/63bbfbcd1e71801dd061d3aa.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 315.0000305175781,
+        "_top": 27,
+        "_width": 80,
+        "_height": 80
+      },
+      {
+        "_left": 393.9999694824219,
+        "_top": 59,
+        "_width": 80,
+        "_height": 80
+      },
+      {
+        "_left": 474.1000061035156,
+        "_top": 42.98750305175781,
+        "_width": 270.95,
+        "_height": 80.975
+      },
+      {
+        "_left": 362.0000305175781,
+        "_top": 147,
+        "_width": 302,
+        "_height": 92
+      },
+      {
+        "_left": 443.0000305175781,
+        "_top": 513,
+        "_width": 80,
+        "_height": 80
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>That's incorrect.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bb/63bbff5b9ebff04d44fd469d.png\" alt=\"Highlighted Google Window\" width=\"1234\" height=\"800\"></p><p>&nbsp;</p>",
+        "final": "<p>That's not quite right.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bb/63bbff5b9ebff04d44fd469d.png\" alt=\"Highlighted Google Window\" width=\"1234\" height=\"800\"></p><p>&nbsp;</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That's not quite right</p>",
+        "final": "<p>That's incorrect.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bb/63bbff5b9ebff04d44fd469d.png\" alt=\"Highlighted Google Window\" width=\"1234\" height=\"800\"></p><p>&nbsp;</p>"
+      },
+      "correct": "<p>That's correct.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bb/63bbff5b9ebff04d44fd469d.png\" alt=\"Highlighted Google Window\" width=\"1234\" height=\"800\"></p><p>&nbsp;</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "hiddenHotspots",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Select suspicious parts of the image below.",
+    "displayTitle": "Select suspicious parts of the image below.",
+    "body": "<p>You receive an email while at work.<br><br>Click on anything that just doesn't look right and that you believe you should be suspicious of</p>",
+    "_id": "63bc117d6ae3612459861204",
+    "_parentId": "63bc117d6ae3612459861203",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the mistakes.",
+    "mobileInstruction": "Tap on the mistakes.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/63bc1a8b9678564ef9aee67c.png"
+    },
+    "itemsRemainingSuffix": "remaining",
+    "_items": [
+      {
+        "_left": 396.0000305175781,
+        "_top": 7,
+        "_width": 218,
+        "_height": 80
+      },
+      {
+        "_left": 344.9875183105469,
+        "_top": 93,
+        "_width": 176,
+        "_height": 80
+      },
+      {
+        "_left": 721.1000061035156,
+        "_top": 308.9875183105469,
+        "_width": 80.94999999999999,
+        "_height": 80.975
+      },
+      {
+        "_left": 347.0000305175781,
+        "_top": 213,
+        "_width": 579,
+        "_height": 80
+      },
+      {
+        "_left": 343.0000305175781,
+        "_top": 399,
+        "_width": 215,
+        "_height": 80
+      }
+    ],
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "<p>That's incorrect.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bc/63bc1a8bbe85dc289c2212d8.png\" alt=\"Highlighted Google Window\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>",
+        "final": "<p>That's not quite right.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bc/63bc1a8bbe85dc289c2212d8.png\" alt=\"Highlighted Google Window\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>"
+      },
+      "_incorrect": {
+        "notFinal": "<p>That's not quite right</p>",
+        "final": "<p>That's incorrect.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bc/63bc1a8bbe85dc289c2212d8.png\" alt=\"Highlighted Google Window\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>"
+      },
+      "correct": "<p>That's correct.</p><p>&nbsp;</p><p><img src=\"https://adaptassets.learningpool.com/north_tyneside/assets/63/bc/63bc1a8bbe85dc289c2212d8.png\" alt=\"Highlighted Google Window\" width=\"1000\" height=\"500\"></p><p>&nbsp;</p>"
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Multiple Choice Question",
+    "displayTitle": "",
+    "body": "<p>Social media can be an excellent resource for hackers and cyber criminals.<br><br>Social media is full of information that can allow them to impersonate and convince you and others of their legitimacy.</p>",
+    "_id": "63bc1bb12e218375c476af29",
+    "_parentId": "63906cdef48c9c28b00b3357",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "What information is likely to be found on an unsecure social media profile? Select all that apply.",
+    "_items": [
+      {
+        "text": "Name",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Age",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Friends",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Location",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Employer",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct, these are all pieces of information that can be mined and used by hackers and cyber criminals.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect, these are all pieces of information that can be mined and used by hackers and cyber criminals.</p>",
+        "notFinal": "<p>Not quite, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Not quite, these are all pieces of information that can be mined and used by hackers and cyber criminals.</p>",
+        "notFinal": "<p>You're partially correct, but there are more correct answers. Try Again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "fillInTheBlanks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Fill in the Blanks",
+    "displayTitle": "Fill in the Blanks",
+    "body": "",
+    "_id": "63bc2c71d6f28f6c1f2859cf",
+    "_parentId": "63906cdff48c9c28b00b335a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "textBlock": "<p>The setting's that control who can see the information on your social media profile is called the %?% settings.</p><p>&nbsp;</p><p>It is a good idea to only allow your %?% to see your information and posts.</p><p>&nbsp;</p><p>Allowing %?% to access your information could lead to them using that information to perform phishing scams.</p>",
+    "_items": [
+      {
+        "_controlType": "Dropdown",
+        "_answers": [
+          {
+            "_answer": "secrecy",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "privacy",
+            "_isCorrect": true
+          },
+          {
+            "_answer": "hidden",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "visibility",
+            "_isCorrect": false
+          }
+        ],
+        "_characters": 0
+      },
+      {
+        "_controlType": "Dropdown",
+        "_answers": [
+          {
+            "_answer": "colleagues",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "strangers",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "followers",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "friends and family",
+            "_isCorrect": true
+          }
+        ],
+        "_characters": 0
+      },
+      {
+        "_controlType": "Dropdown",
+        "_answers": [
+          {
+            "_answer": "colleagues",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "strangers",
+            "_isCorrect": true
+          },
+          {
+            "_answer": "followers",
+            "_isCorrect": false
+          },
+          {
+            "_answer": "friends and family",
+            "_isCorrect": false
+          }
+        ],
+        "_characters": 0
+      }
+    ],
+    "_placeholderCharacters": " _",
+    "_useValidationColors": true,
+    "_useClassicStyle": true,
+    "_attempts": 2,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63bc3805d6f28f6c1f2859e0",
+    "_parentId": "63bc37f4508d951ae064c28c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63bc3810cae1b9781c8c168e.png",
+      "small": "course/en/assets/63bc3810cae1b9781c8c168e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Windows Login",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63bd48df3aa3ee120c44be85",
+    "_parentId": "63bd48b44275f97cd8d594d6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63bd48f58423bbfcda6efdc9.png",
+      "small": "course/en/assets/63bd48f58423bbfcda6efdc9.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question Text",
+    "displayTitle": "",
+    "body": "<p>You have a work laptop and you need to access your work emails from a local coffee shop.&nbsp;<br><br>Which icon should you select when you come to log into the laptop?</p>",
+    "_id": "63bd490940952d11f352e17f",
+    "_parentId": "63bd48b44275f97cd8d594d6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Which sentence best describes a virtual private network (VPN)",
+    "displayTitle": "Which sentence best describes a virtual private network (VPN)",
+    "body": "",
+    "_id": "63bd4d83da9dc71bfc2e29ee",
+    "_parentId": "63906d1c86cb843f201693bc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "A secure connection from your laptop to the internet, that can be managed and secured by the IT team. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "A slower connection to the internet that doesn't need a Wifi connection.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "A way to connect to other computers within North Tyneside while you're out and about.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!<br><br>The VPN makes sure that you, and only you, can see what you are doing online. It makes sure that cyber criminals can't get access to your .</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.</p><p>&nbsp;</p><p>The VPN makes sure that you, and only you, can see what you are doing online. It makes sure that cyber criminals can't get access to your .</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "Graphic",
+    "body": "",
+    "_id": "63bd6c078c90b61c0292ecaa",
+    "_parentId": "63bd6bfd2980ef1e0602428c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/62611f05c22a461649847659.png",
+      "small": "course/en/assets/62611f05c22a461649847659.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "In this module:",
+    "displayTitle": "In this module:",
+    "body": "<p>What is cyber security?<br>Why is cyber security important?</p><p>Who are North Tyneside Council at risk from?</p>",
+    "_id": "63c1389a40952d11f3530588",
+    "_parentId": "63c1388d2980ef1e06025dc0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Media",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63d2451b968fa974c0f86a72",
+    "_parentId": "63d243c33e94da24fecb23de",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "course/en/assets/63d244e895910192c15335c2.m4v",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": null,
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Media",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63d25dedf577f324d54fd427",
+    "_parentId": "63d25de7e2de5a072abc7f4b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "course/en/assets/63d26f59ed7c3efa0a7220e8.m4v",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": null,
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Media",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63d26dd06c6eb3782e5a2f2a",
+    "_parentId": "63692a56f0c4f52fb401c3fa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "course/en/assets/63d26daa60077d03fdfa4335.m4v",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": null,
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  }
+]
