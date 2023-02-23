@@ -1,37 +1,5 @@
 [
   {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": true,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Blank",
-    "displayTitle": "Blank",
-    "body": "",
-    "_id": "63652a04d5517d180c8ca324",
-    "_parentId": "636529c94e4ad83058b453bd",
-    "_type": "component",
-    "_layout": "full",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    }
-  },
-  {
     "_component": "matching",
     "_classes": "background-colour2",
     "_isOptional": false,
@@ -44,8 +12,8 @@
     "title": "Match the cyber threat to it's description.",
     "displayTitle": "",
     "body": "",
-    "_id": "637377425e0e6e35ab91ab32",
-    "_parentId": "63737735ca8f3861ecb6a376",
+    "_id": "63e61d1e2e834802d12cc321",
+    "_parentId": "63e61d1d2e834802d12cc2c2",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -235,8 +203,8 @@
     "title": "True or False: \"North Tyneside Council is under cyber-attack 24/7\"",
     "displayTitle": "True or False: \"North Tyneside Council is under cyber-attack 24/7\"",
     "body": "",
-    "_id": "63737da4e969fe4e0deadfbd",
-    "_parentId": "63652a65154b9218320fa494",
+    "_id": "63e61d1e2e834802d12cc322",
+    "_parentId": "63e61d1d2e834802d12cc2bf",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -351,8 +319,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "6373b4f7998d855659df6ea8",
-    "_parentId": "6373b4e85e0e6e35ab91b0c7",
+    "_id": "63e61d1e2e834802d12cc323",
+    "_parentId": "63e61d1d2e834802d12cc2c3",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -403,8 +371,8 @@
     "title": "Fill in the blanks",
     "displayTitle": "Fill in the blanks",
     "body": "",
-    "_id": "6373bcc4e969fe4e0deaec47",
-    "_parentId": "6373bcab77564056bb6792f0",
+    "_id": "63e61d1e2e834802d12cc324",
+    "_parentId": "63e61d1d2e834802d12cc2c5",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -539,8 +507,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6374ce6f6bdf037dd6ee9237",
-    "_parentId": "6374ce6c5e0e6e35ab91b7a9",
+    "_id": "63e61d1e2e834802d12cc325",
+    "_parentId": "63e61d1d2e834802d12cc2c6",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -579,8 +547,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6374d9c6f42a096789f5d529",
-    "_parentId": "6374d9bfe2f6da61392d6dea",
+    "_id": "63e61d1e2e834802d12cc326",
+    "_parentId": "63e61d1d2e834802d12cc2c7",
     "_type": "component",
     "_layout": "full"
   },
@@ -597,8 +565,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6374daf7ca8f3861ecb6b582",
-    "_parentId": "6374daeb6bdf037dd6ee9265",
+    "_id": "63e61d1e2e834802d12cc327",
+    "_parentId": "63e61d1d2e834802d12cc2c8",
     "_type": "component",
     "_layout": "full"
   },
@@ -615,48 +583,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6374db616bdf037dd6ee9268",
-    "_parentId": "6374db616bdf037dd6ee9267",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    }
-  },
-  {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": true,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Blank",
-    "displayTitle": "Blank",
-    "body": "",
-    "_id": "6374db6f30296011e6ec672f",
-    "_parentId": "6374db6f30296011e6ec672e",
+    "_id": "63e61d1e2e834802d12cc329",
+    "_parentId": "63e61d1d2e834802d12cc2ca",
     "_type": "component",
     "_layout": "full"
   },
@@ -673,8 +601,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "6374e61277564056bb679763",
-    "_parentId": "6373bb37f42a096789f5ceb4",
+    "_id": "63e61d1e2e834802d12cc32a",
+    "_parentId": "63e61d1d2e834802d12cc2c4",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -725,8 +653,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "6374ffdfe969fe4e0deaf4aa",
-    "_parentId": "6374ffdfe969fe4e0deaf4a9",
+    "_id": "63e61d1e2e834802d12cc32b",
+    "_parentId": "63e61d1d2e834802d12cc2cb",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -777,8 +705,8 @@
     "title": "Media",
     "displayTitle": "",
     "body": "",
-    "_id": "6387756fc3c95077056f3005",
-    "_parentId": "63652a0853e27817ed04c278",
+    "_id": "63e61d1e2e834802d12cc32c",
+    "_parentId": "63e61d1d2e834802d12cc2be",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -849,8 +777,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "638878d9ed3df76d45c62467",
-    "_parentId": "638878d9ed3df76d45c62465",
+    "_id": "63e61d1e2e834802d12cc32d",
+    "_parentId": "63e61d1d2e834802d12cc2cc",
     "_type": "component",
     "_layout": "full"
   },
@@ -867,8 +795,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "638878eded3df76d45c6246b",
-    "_parentId": "638878eded3df76d45c6246a",
+    "_id": "63e61d1e2e834802d12cc32e",
+    "_parentId": "63e61d1d2e834802d12cc2ce",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -907,8 +835,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6388790165b83d5bdaf0788b",
-    "_parentId": "6388790165b83d5bdaf07888",
+    "_id": "63e61d1e2e834802d12cc32f",
+    "_parentId": "63e61d1d2e834802d12cc2cf",
     "_type": "component",
     "_layout": "full"
   },
@@ -925,8 +853,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63887911c3c95077056f342f",
-    "_parentId": "63887911c3c95077056f342e",
+    "_id": "63e61d1e2e834802d12cc330",
+    "_parentId": "63e61d1d2e834802d12cc2d1",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -965,8 +893,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6388792294d2b36d3e1be0fb",
-    "_parentId": "6388792294d2b36d3e1be0f9",
+    "_id": "63e61d1e2e834802d12cc331",
+    "_parentId": "63e61d1d2e834802d12cc2d2",
     "_type": "component",
     "_layout": "full"
   },
@@ -983,8 +911,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63887a4588ed3876e2fa2223",
-    "_parentId": "63887a3cf9b581463f7565c6",
+    "_id": "63e61d1e2e834802d12cc332",
+    "_parentId": "63e61d1d2e834802d12cc2d4",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1035,8 +963,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63887a7694d2b36d3e1be0ff",
-    "_parentId": "63887a64108d35475c57cea5",
+    "_id": "63e61d1e2e834802d12cc333",
+    "_parentId": "63e61d1d2e834802d12cc2d5",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1087,8 +1015,8 @@
     "title": "What does GDPR stand for?",
     "displayTitle": "What does GDPR stand for?",
     "body": "",
-    "_id": "63887b4a17a5f26d1f638b83",
-    "_parentId": "638878d9ed3df76d45c62466",
+    "_id": "63e61d1e2e834802d12cc334",
+    "_parentId": "63e61d1d2e834802d12cc2cd",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1197,8 +1125,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63887e2b64c452479b3c8b27",
-    "_parentId": "638878d9ed3df76d45c62466",
+    "_id": "63e61d1e2e834802d12cc335",
+    "_parentId": "63e61d1d2e834802d12cc2cd",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1249,8 +1177,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "6388872e64c452479b3c8d4b",
-    "_parentId": "6388792294d2b36d3e1be0fa",
+    "_id": "63e61d1e2e834802d12cc336",
+    "_parentId": "63e61d1d2e834802d12cc2d3",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1301,8 +1229,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "638891d1ed3df76d45c6252c",
-    "_parentId": "63692e8cf0c4f52fb401c40e",
+    "_id": "63e61d1e2e834802d12cc337",
+    "_parentId": "63e61d1d2e834802d12cc2c1",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1353,8 +1281,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "6388920750a46676bea4752b",
-    "_parentId": "6388920650a46676bea4752a",
+    "_id": "63e61d1e2e834802d12cc338",
+    "_parentId": "63e61d1d2e834802d12cc2d6",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1405,8 +1333,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6388924650a46676bea4752f",
-    "_parentId": "6388924650a46676bea4752d",
+    "_id": "63e61d1e2e834802d12cc339",
+    "_parentId": "63e61d1d2e834802d12cc2d7",
     "_type": "component",
     "_layout": "full"
   },
@@ -1423,8 +1351,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63889254108d35475c57d01a",
-    "_parentId": "63889253108d35475c57d019",
+    "_id": "63e61d1e2e834802d12cc33a",
+    "_parentId": "63e61d1d2e834802d12cc2d8",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1463,8 +1391,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "6388927350a46676bea47535",
-    "_parentId": "6388927350a46676bea47534",
+    "_id": "63e61d1e2e834802d12cc33b",
+    "_parentId": "63e61d1d2e834802d12cc2da",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1503,8 +1431,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63889287f9d596615612efe8",
-    "_parentId": "63889287f9d596615612efe6",
+    "_id": "63e61d1e2e834802d12cc33c",
+    "_parentId": "63e61d1d2e834802d12cc2db",
     "_type": "component",
     "_layout": "full"
   },
@@ -1521,8 +1449,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63889287f9d596615612efe9",
-    "_parentId": "63889287f9d596615612efe7",
+    "_id": "63e61d1e2e834802d12cc33d",
+    "_parentId": "63e61d1d2e834802d12cc2dc",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1573,8 +1501,8 @@
     "title": "Health, sex life, criminal behaviour, race, ethnicity, religious beliefs, political opinions and trade union membership are all special pieces of personal data. What are they called?",
     "displayTitle": "Health, sex life, criminal behaviour, race, ethnicity, religious beliefs, political opinions and trade union membership are all special pieces of personal data. What are they called?",
     "body": "",
-    "_id": "638892aded3df76d45c6252d",
-    "_parentId": "6388792294d2b36d3e1be0fa",
+    "_id": "63e61d1e2e834802d12cc33e",
+    "_parentId": "63e61d1d2e834802d12cc2d3",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1690,8 +1618,8 @@
     "title": "Graphical Multiple Choice Question",
     "displayTitle": "",
     "body": "<p>You've been asked by your boss to design a survey to find out who is using a North Tyneside Council office carpark and what they are using it for.</p><p>&nbsp;</p><p>Which of the questionnaires below would be most appropriate to use?</p>",
-    "_id": "638897cded3df76d45c62533",
-    "_parentId": "6388940865b83d5bdaf078a7",
+    "_id": "63e61d1e2e834802d12cc33f",
+    "_parentId": "63e61d1d2e834802d12cc2dd",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1806,8 +1734,8 @@
     "title": "Yes/No",
     "displayTitle": "",
     "body": "",
-    "_id": "638f1c2f47ee763c22590859",
-    "_parentId": "6388790165b83d5bdaf07889",
+    "_id": "63e61d1e2e834802d12cc340",
+    "_parentId": "63e61d1d2e834802d12cc2d0",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1978,8 +1906,8 @@
     "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
     "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
     "body": "",
-    "_id": "638f68cbdfe4fd2979687de6",
-    "_parentId": "63889287f9d596615612efe7",
+    "_id": "63e61d1e2e834802d12cc341",
+    "_parentId": "63e61d1d2e834802d12cc2dc",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2095,8 +2023,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "638f69b71057f541a6be519a",
-    "_parentId": "63889263f9b581463f75671f",
+    "_id": "63e61d1e2e834802d12cc342",
+    "_parentId": "63e61d1d2e834802d12cc2d9",
     "_type": "component",
     "_layout": "full"
   },
@@ -2113,8 +2041,8 @@
     "title": "Guy with requests",
     "displayTitle": "",
     "body": "<p>One of our customers contacts you and has a number of requests.&nbsp;<br><br>Click or tap on the requests that we are legally required to assist them with.</p>",
-    "_id": "638f6d0047ee763c22590d32",
-    "_parentId": "638f69c16feb490fc220c5fd",
+    "_id": "63e61d1e2e834802d12cc343",
+    "_parentId": "63e61d1d2e834802d12cc2de",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2233,8 +2161,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906a85c4743372e4dc747d",
-    "_parentId": "63906a85c4743372e4dc747c",
+    "_id": "63e61d1e2e834802d12cc344",
+    "_parentId": "63e61d1d2e834802d12cc2df",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2285,8 +2213,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906ad49722740c743a3353",
-    "_parentId": "63906ad49722740c743a3352",
+    "_id": "63e61d1e2e834802d12cc345",
+    "_parentId": "63e61d1d2e834802d12cc2e0",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2337,8 +2265,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906b20ae34bc3f2b1524c2",
-    "_parentId": "63906b20ae34bc3f2b1524c1",
+    "_id": "63e61d1e2e834802d12cc346",
+    "_parentId": "63e61d1d2e834802d12cc2e1",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2389,8 +2317,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906b635d9a9c0d271d3bca",
-    "_parentId": "63906b635d9a9c0d271d3bc9",
+    "_id": "63e61d1e2e834802d12cc347",
+    "_parentId": "63e61d1d2e834802d12cc2e2",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2441,8 +2369,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906bbe57b7113f605e672f",
-    "_parentId": "63906bbe57b7113f605e672e",
+    "_id": "63e61d1e2e834802d12cc348",
+    "_parentId": "63e61d1d2e834802d12cc2e3",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2493,8 +2421,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906c5a9722740c743a3364",
-    "_parentId": "63906c599722740c743a335b",
+    "_id": "63e61d1e2e834802d12cc349",
+    "_parentId": "63e61d1d2e834802d12cc2e4",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2545,8 +2473,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906c5a9722740c743a3365",
-    "_parentId": "63906c599722740c743a335c",
+    "_id": "63e61d1e2e834802d12cc34a",
+    "_parentId": "63e61d1d2e834802d12cc2e5",
     "_type": "component",
     "_layout": "full"
   },
@@ -2563,8 +2491,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906c5a9722740c743a3367",
-    "_parentId": "63906c599722740c743a335e",
+    "_id": "63e61d1e2e834802d12cc34b",
+    "_parentId": "63e61d1d2e834802d12cc2e7",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2603,8 +2531,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906c5a9722740c743a3368",
-    "_parentId": "63906c5a9722740c743a335f",
+    "_id": "63e61d1e2e834802d12cc34c",
+    "_parentId": "63e61d1d2e834802d12cc2e8",
     "_type": "component",
     "_layout": "full"
   },
@@ -2621,8 +2549,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906c5a9722740c743a336a",
-    "_parentId": "63906c5a9722740c743a3361",
+    "_id": "63e61d1e2e834802d12cc34d",
+    "_parentId": "63e61d1d2e834802d12cc2ea",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2661,8 +2589,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906c5a9722740c743a336b",
-    "_parentId": "63906c5a9722740c743a3362",
+    "_id": "63e61d1e2e834802d12cc34e",
+    "_parentId": "63e61d1d2e834802d12cc2eb",
     "_type": "component",
     "_layout": "full"
   },
@@ -2679,8 +2607,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906ca53928dd328d802bc0",
-    "_parentId": "63906ca53928dd328d802bb7",
+    "_id": "63e61d1e2e834802d12cc34f",
+    "_parentId": "63e61d1d2e834802d12cc2ed",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2731,8 +2659,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906ca53928dd328d802bc1",
-    "_parentId": "63906ca53928dd328d802bb8",
+    "_id": "63e61d1e2e834802d12cc350",
+    "_parentId": "63e61d1d2e834802d12cc2ee",
     "_type": "component",
     "_layout": "full"
   },
@@ -2749,8 +2677,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906ca53928dd328d802bc3",
-    "_parentId": "63906ca53928dd328d802bba",
+    "_id": "63e61d1e2e834802d12cc351",
+    "_parentId": "63e61d1d2e834802d12cc2f0",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2789,8 +2717,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906ca53928dd328d802bc4",
-    "_parentId": "63906ca53928dd328d802bbb",
+    "_id": "63e61d1e2e834802d12cc352",
+    "_parentId": "63e61d1d2e834802d12cc2f1",
     "_type": "component",
     "_layout": "full"
   },
@@ -2807,8 +2735,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906ca53928dd328d802bc6",
-    "_parentId": "63906ca53928dd328d802bbd",
+    "_id": "63e61d1e2e834802d12cc353",
+    "_parentId": "63e61d1d2e834802d12cc2f2",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2847,8 +2775,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906ca53928dd328d802bc7",
-    "_parentId": "63906ca53928dd328d802bbe",
+    "_id": "63e61d1e2e834802d12cc354",
+    "_parentId": "63e61d1d2e834802d12cc2f3",
     "_type": "component",
     "_layout": "full"
   },
@@ -2865,8 +2793,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906cdff48c9c28b00b335e",
-    "_parentId": "63906cdef48c9c28b00b3355",
+    "_id": "63e61d1e2e834802d12cc355",
+    "_parentId": "63e61d1d2e834802d12cc2f4",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2917,8 +2845,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906cdff48c9c28b00b335f",
-    "_parentId": "63906cdef48c9c28b00b3356",
+    "_id": "63e61d1e2e834802d12cc356",
+    "_parentId": "63e61d1d2e834802d12cc2f5",
     "_type": "component",
     "_layout": "full"
   },
@@ -2935,8 +2863,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906cdff48c9c28b00b3361",
-    "_parentId": "63906cdff48c9c28b00b3358",
+    "_id": "63e61d1e2e834802d12cc357",
+    "_parentId": "63e61d1d2e834802d12cc2f7",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2975,8 +2903,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906cdff48c9c28b00b3362",
-    "_parentId": "63906cdff48c9c28b00b3359",
+    "_id": "63e61d1e2e834802d12cc358",
+    "_parentId": "63e61d1d2e834802d12cc2f8",
     "_type": "component",
     "_layout": "full"
   },
@@ -2993,8 +2921,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906cdff48c9c28b00b3364",
-    "_parentId": "63906cdff48c9c28b00b335b",
+    "_id": "63e61d1e2e834802d12cc359",
+    "_parentId": "63e61d1d2e834802d12cc2fa",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3033,8 +2961,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906cdff48c9c28b00b3365",
-    "_parentId": "63906cdff48c9c28b00b335c",
+    "_id": "63e61d1e2e834802d12cc35a",
+    "_parentId": "63e61d1d2e834802d12cc2fb",
     "_type": "component",
     "_layout": "full"
   },
@@ -3051,8 +2979,8 @@
     "title": "Why should you be concerned about this message from a friend on social media?",
     "displayTitle": "Why should you be concerned about this message from a friend on social media?",
     "body": "",
-    "_id": "63906cdff48c9c28b00b3367",
-    "_parentId": "63906cdff48c9c28b00b335d",
+    "_id": "63e61d1e2e834802d12cc35b",
+    "_parentId": "63e61d1d2e834802d12cc2fc",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3168,8 +3096,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906d1c86cb843f201693c0",
-    "_parentId": "63906d1b86cb843f201693b7",
+    "_id": "63e61d1e2e834802d12cc35c",
+    "_parentId": "63e61d1d2e834802d12cc2fd",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3220,8 +3148,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d1c86cb843f201693c1",
-    "_parentId": "63906d1c86cb843f201693b8",
+    "_id": "63e61d1e2e834802d12cc35d",
+    "_parentId": "63e61d1d2e834802d12cc2fe",
     "_type": "component",
     "_layout": "full"
   },
@@ -3238,8 +3166,8 @@
     "title": "Graphical Multiple Choice Question",
     "displayTitle": "",
     "body": "",
-    "_id": "63906d1c86cb843f201693c2",
-    "_parentId": "63906d1c86cb843f201693b9",
+    "_id": "63e61d1e2e834802d12cc35e",
+    "_parentId": "63e61d1d2e834802d12cc2ff",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3354,8 +3282,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d1c86cb843f201693c3",
-    "_parentId": "63906d1c86cb843f201693ba",
+    "_id": "63e61d1e2e834802d12cc35f",
+    "_parentId": "63e61d1d2e834802d12cc300",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3394,8 +3322,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d1c86cb843f201693c4",
-    "_parentId": "63906d1c86cb843f201693bb",
+    "_id": "63e61d1e2e834802d12cc360",
+    "_parentId": "63e61d1d2e834802d12cc301",
     "_type": "component",
     "_layout": "full"
   },
@@ -3412,8 +3340,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d1c86cb843f201693c6",
-    "_parentId": "63906d1c86cb843f201693bd",
+    "_id": "63e61d1e2e834802d12cc361",
+    "_parentId": "63e61d1d2e834802d12cc303",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3452,179 +3380,10 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d1c86cb843f201693c7",
-    "_parentId": "63906d1c86cb843f201693be",
+    "_id": "63e61d1e2e834802d12cc362",
+    "_parentId": "63e61d1d2e834802d12cc304",
     "_type": "component",
     "_layout": "full"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Graphic",
-    "displayTitle": "",
-    "body": "",
-    "_id": "63906d1c86cb843f201693c8",
-    "_parentId": "63906d1c86cb843f201693bf",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/6390606e72ae393b9aaddacf.png",
-      "small": "course/en/assets/6390606e72ae393b9aaddacf.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
-    "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
-    "body": "",
-    "_id": "63906d1c86cb843f201693c9",
-    "_parentId": "63906d1c86cb843f201693bf",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Select all that are correct",
-    "_items": [
-      {
-        "text": "Ask for them to send the data back immediately.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Contact Information Governance as soon as possible.",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "<p>Correct,&nbsp;<br><br>Information Governance should be contacted if you suspect a data breech.<br><br>They can be reached via email:<br>infomation.governance@northtyneside.gov.uk</p>",
-        "_score": 1
-      },
-      {
-        "text": "Wait for the customer's to realise the mistake.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Send the correct information as soon as you realise the mistake.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 2,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
   },
   {
     "_component": "graphic",
@@ -3639,8 +3398,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906d53c4743372e4dc749b",
-    "_parentId": "63906d53c4743372e4dc7492",
+    "_id": "63e61d1e2e834802d12cc365",
+    "_parentId": "63e61d1d2e834802d12cc306",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3691,128 +3450,12 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d53c4743372e4dc749c",
-    "_parentId": "63906d53c4743372e4dc7493",
+    "_id": "63e61d1e2e834802d12cc366",
+    "_parentId": "63e61d1d2e834802d12cc307",
     "_type": "component",
     "_layout": "full"
   },
   {
-    "_component": "gmcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Graphical Multiple Choice Question",
-    "displayTitle": "",
-    "body": "<p>You've been asked by your boss to design a survey to find out who is using a North Tyneside Council office carpark and what they are using it for.</p><p>&nbsp;</p><p>Which of the questionnaires below would be most appropriate to use?</p>",
-    "_id": "63906d53c4743372e4dc749d",
-    "_parentId": "63906d53c4743372e4dc7494",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "_graphic": {
-          "large": "course/en/assets/63889853a32219e9323af1e1.png",
-          "small": "course/en/assets/63889853a32219e9323af1e1.png",
-          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit ",
-          "attribution": ""
-        },
-        "text": "",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 1
-      },
-      {
-        "_graphic": {
-          "large": "course/en/assets/638898a15b2381177df3844e.png",
-          "small": "course/en/assets/638898a15b2381177df3844e.png",
-          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit, Religion ",
-          "attribution": ""
-        },
-        "text": "",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "_columns": 0,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "<p>That's correct!<br><br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
-      "_incorrect": {
-        "final": "<p>That's incorrect.<br><br>That survey is collecting more data that is needed.<br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_component": "blank",
     "_classes": "",
     "_isOptional": true,
@@ -3825,8 +3468,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d53c4743372e4dc749e",
-    "_parentId": "63906d53c4743372e4dc7495",
+    "_id": "63e61d1e2e834802d12cc368",
+    "_parentId": "63e61d1d2e834802d12cc309",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3865,132 +3508,12 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d53c4743372e4dc749f",
-    "_parentId": "63906d53c4743372e4dc7496",
+    "_id": "63e61d1e2e834802d12cc369",
+    "_parentId": "63e61d1d2e834802d12cc30a",
     "_type": "component",
     "_layout": "full"
   },
   {
-    "_component": "hiddenHotspots",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Guy with requests",
-    "displayTitle": "",
-    "body": "<p>One of our customers contacts you and has a number of requests.&nbsp;<br><br>Click or tap on the requests that we are legally required to assist them with.</p>",
-    "_id": "63906d53c4743372e4dc74a0",
-    "_parentId": "63906d53c4743372e4dc7497",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_attempts": 2,
-    "_shouldDisplayAttempts": false,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/638f6f1c688f802570164a5e.png"
-    },
-    "itemsRemainingSuffix": "remaining",
-    "_items": [
-      {
-        "_left": 265,
-        "_top": 7,
-        "_width": 211,
-        "_height": 93
-      },
-      {
-        "_left": 518.1007080078125,
-        "_top": 0.986114501953125,
-        "_width": 210,
-        "_height": 92.9792
-      },
-      {
-        "_left": 512.111083984375,
-        "_top": 103.99652099609375,
-        "_width": 207,
-        "_height": 94
-      },
-      {
-        "_left": 512.1007080078125,
-        "_top": 212.99655151367188,
-        "_width": 203,
-        "_height": 91
-      },
-      {
-        "_left": 265,
-        "_top": 213,
-        "_width": 238,
-        "_height": 100
-      }
-    ],
-    "_feedback": {
-      "_partlyCorrect": {
-        "notFinal": "<p>You are partially correct. Try again.</p>",
-        "final": "<p>You're partially correct.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
-      },
-      "_incorrect": {
-        "notFinal": "<p>That's not quite right. Try again.</p>",
-        "final": "<p>That's incorrect.<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
-      },
-      "correct": "<p>That's right.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
-    },
-    "_buttons": {
-      "remainingAttemptText": "",
-      "remainingAttemptsText": "",
-      "_showFeedback": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_hideCorrectAnswer": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_showCorrectAnswer": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_reset": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_submit": {
-        "ariaLabel": "",
-        "buttonText": ""
-      }
-    }
-  },
-  {
     "_component": "blank",
     "_classes": "",
     "_isOptional": true,
@@ -4003,8 +3526,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d53c4743372e4dc74a1",
-    "_parentId": "63906d53c4743372e4dc7498",
+    "_id": "63e61d1e2e834802d12cc36b",
+    "_parentId": "63e61d1d2e834802d12cc30c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4043,179 +3566,10 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906d53c4743372e4dc74a2",
-    "_parentId": "63906d53c4743372e4dc7499",
+    "_id": "63e61d1e2e834802d12cc36c",
+    "_parentId": "63e61d1e2e834802d12cc30d",
     "_type": "component",
     "_layout": "full"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Graphic",
-    "displayTitle": "",
-    "body": "",
-    "_id": "63906d53c4743372e4dc74a3",
-    "_parentId": "63906d53c4743372e4dc749a",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/6390606e72ae393b9aaddacf.png",
-      "small": "course/en/assets/6390606e72ae393b9aaddacf.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
-    "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
-    "body": "",
-    "_id": "63906d53c4743372e4dc74a4",
-    "_parentId": "63906d53c4743372e4dc749a",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Select all that are correct",
-    "_items": [
-      {
-        "text": "Ask for them to send the data back immediately.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Contact Information Governance as soon as possible.",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "<p>Correct,&nbsp;<br><br>Information Governance should be contacted if you suspect a data breech.<br><br>They can be reached via email:<br>infomation.governance@northtyneside.gov.uk</p>",
-        "_score": 1
-      },
-      {
-        "text": "Wait for the customer's to realise the mistake.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Send the correct information as soon as you realise the mistake.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 2,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
   },
   {
     "_component": "graphic",
@@ -4230,8 +3584,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63906db19722740c743a337f",
-    "_parentId": "63906db09722740c743a3376",
+    "_id": "63e61d1e2e834802d12cc36f",
+    "_parentId": "63e61d1e2e834802d12cc30f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4282,128 +3636,12 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906db19722740c743a3380",
-    "_parentId": "63906db09722740c743a3377",
+    "_id": "63e61d1e2e834802d12cc370",
+    "_parentId": "63e61d1e2e834802d12cc310",
     "_type": "component",
     "_layout": "full"
   },
   {
-    "_component": "gmcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Graphical Multiple Choice Question",
-    "displayTitle": "",
-    "body": "<p>You've been asked by your boss to design a survey to find out who is using a North Tyneside Council office carpark and what they are using it for.</p><p>&nbsp;</p><p>Which of the questionnaires below would be most appropriate to use?</p>",
-    "_id": "63906db19722740c743a3381",
-    "_parentId": "63906db19722740c743a3378",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "_graphic": {
-          "large": "course/en/assets/63889853a32219e9323af1e1.png",
-          "small": "course/en/assets/63889853a32219e9323af1e1.png",
-          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit ",
-          "attribution": ""
-        },
-        "text": "",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 1
-      },
-      {
-        "_graphic": {
-          "large": "course/en/assets/638898a15b2381177df3844e.png",
-          "small": "course/en/assets/638898a15b2381177df3844e.png",
-          "alt": "A survey with questions: Name, Company, Car Registration, Purpose Of Visit, Religion ",
-          "attribution": ""
-        },
-        "text": "",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "_columns": 0,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "<p>That's correct!<br><br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
-      "_incorrect": {
-        "final": "<p>That's incorrect.<br><br>That survey is collecting more data that is needed.<br>We should only collect the minimum amount of data we require, for the purpose we are collecting it for.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_component": "blank",
     "_classes": "",
     "_isOptional": true,
@@ -4416,8 +3654,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906db19722740c743a3382",
-    "_parentId": "63906db19722740c743a3379",
+    "_id": "63e61d1e2e834802d12cc372",
+    "_parentId": "63e61d1e2e834802d12cc312",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4456,132 +3694,12 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906db19722740c743a3383",
-    "_parentId": "63906db19722740c743a337a",
+    "_id": "63e61d1e2e834802d12cc373",
+    "_parentId": "63e61d1e2e834802d12cc313",
     "_type": "component",
     "_layout": "full"
   },
   {
-    "_component": "hiddenHotspots",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Guy with requests",
-    "displayTitle": "",
-    "body": "<p>One of our customers contacts you and has a number of requests.&nbsp;<br><br>Click or tap on the requests that we are legally required to assist them with.</p>",
-    "_id": "63906db19722740c743a3384",
-    "_parentId": "63906db19722740c743a337b",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_attempts": 2,
-    "_shouldDisplayAttempts": false,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/638f6f1c688f802570164a5e.png"
-    },
-    "itemsRemainingSuffix": "remaining",
-    "_items": [
-      {
-        "_left": 265,
-        "_top": 7,
-        "_width": 211,
-        "_height": 93
-      },
-      {
-        "_left": 518.1007080078125,
-        "_top": 0.986114501953125,
-        "_width": 210,
-        "_height": 92.9792
-      },
-      {
-        "_left": 512.111083984375,
-        "_top": 103.99652099609375,
-        "_width": 207,
-        "_height": 94
-      },
-      {
-        "_left": 512.1007080078125,
-        "_top": 212.99655151367188,
-        "_width": 203,
-        "_height": 91
-      },
-      {
-        "_left": 265,
-        "_top": 213,
-        "_width": 238,
-        "_height": 100
-      }
-    ],
-    "_feedback": {
-      "_partlyCorrect": {
-        "notFinal": "<p>You are partially correct. Try again.</p>",
-        "final": "<p>You're partially correct.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
-      },
-      "_incorrect": {
-        "notFinal": "<p>That's not quite right. Try again.</p>",
-        "final": "<p>That's incorrect.<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
-      },
-      "correct": "<p>That's right.&nbsp;<br><br>We must comply with all of these requests, except from giving them access to someone else's data. They have no legal right to that data.</p>"
-    },
-    "_buttons": {
-      "remainingAttemptText": "",
-      "remainingAttemptsText": "",
-      "_showFeedback": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_hideCorrectAnswer": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_showCorrectAnswer": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_reset": {
-        "ariaLabel": "",
-        "buttonText": ""
-      },
-      "_submit": {
-        "ariaLabel": "",
-        "buttonText": ""
-      }
-    }
-  },
-  {
     "_component": "blank",
     "_classes": "",
     "_isOptional": true,
@@ -4594,8 +3712,8 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906db19722740c743a3385",
-    "_parentId": "63906db19722740c743a337c",
+    "_id": "63e61d1e2e834802d12cc375",
+    "_parentId": "63e61d1e2e834802d12cc315",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4634,179 +3752,10 @@
     "title": "Blank",
     "displayTitle": "Blank",
     "body": "",
-    "_id": "63906db19722740c743a3386",
-    "_parentId": "63906db19722740c743a337d",
+    "_id": "63e61d1e2e834802d12cc376",
+    "_parentId": "63e61d1e2e834802d12cc316",
     "_type": "component",
     "_layout": "full"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Graphic",
-    "displayTitle": "",
-    "body": "",
-    "_id": "63906db19722740c743a3387",
-    "_parentId": "63906db19722740c743a337e",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/6390606e72ae393b9aaddacf.png",
-      "small": "course/en/assets/6390606e72ae393b9aaddacf.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
-    "displayTitle": "You believe you may have mixed up two customers and sent them both the other person's data. What is your best course of action?",
-    "body": "",
-    "_id": "63906db19722740c743a3388",
-    "_parentId": "63906db19722740c743a337e",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Select all that are correct",
-    "_items": [
-      {
-        "text": "Ask for them to send the data back immediately.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Contact Information Governance as soon as possible.",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "<p>Correct,&nbsp;<br><br>Information Governance should be contacted if you suspect a data breech.<br><br>They can be reached via email:<br>infomation.governance@northtyneside.gov.uk</p>",
-        "_score": 1
-      },
-      {
-        "text": "Wait for the customer's to realise the mistake.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Send the correct information as soon as you realise the mistake.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 2,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
   },
   {
     "_component": "hiddenHotspots",
@@ -4821,8 +3770,8 @@
     "title": "Spot the 3 mistakes made in the image below.",
     "displayTitle": "Spot the 3 mistakes made in the image below.",
     "body": "",
-    "_id": "63909981f48c9c28b00b3393",
-    "_parentId": "63906c599722740c743a335d",
+    "_id": "63e61d1e2e834802d12cc379",
+    "_parentId": "63e61d1d2e834802d12cc2e6",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4929,8 +3878,8 @@
     "title": "Password Stacker",
     "displayTitle": "",
     "body": "",
-    "_id": "6390a1a998238b28852efe09",
-    "_parentId": "63906c5a9722740c743a3360",
+    "_id": "63e61d1e2e834802d12cc37a",
+    "_parentId": "63e61d1d2e834802d12cc2e9",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -5129,8 +4078,8 @@
     "title": "\"Do\"s and \"Don't\"s",
     "displayTitle": "\"Do\"s and \"Don't\"s",
     "body": "<p>There are rules and practices around keeping our passwords and systems as securely as possible.&nbsp;<br><br>Select \"Do\" or \"Don't\" for the following practices.</p>",
-    "_id": "63bbddf56ae3612459860d0e",
-    "_parentId": "63906c5a9722740c743a3363",
+    "_id": "63e61d1e2e834802d12cc37b",
+    "_parentId": "63e61d1d2e834802d12cc2ec",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5301,8 +4250,8 @@
     "title": "Multiple Choice Question",
     "displayTitle": "",
     "body": "<p>The best rule for keeping yourself safe online is to keep any eye out for anything that \"JDLR\".<br>But what does JDLR stand for?<br>&nbsp;</p>",
-    "_id": "63bbf16d7c4fa7366010527b",
-    "_parentId": "63906ca53928dd328d802bb9",
+    "_id": "63e61d1e2e834802d12cc37c",
+    "_parentId": "63e61d1d2e834802d12cc2ef",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5418,8 +4367,8 @@
     "title": "Select suspicious parts of the image below.",
     "displayTitle": "Select suspicious parts of the image below.",
     "body": "<p>A colleague asks you to check a website for them. When you get to the website, it asks you to log in with your email account.<br><br>Click on anything that just doesn't look right and that you believe you should be suspicious of</p>",
-    "_id": "63bbf52c7c4fa73660105280",
-    "_parentId": "63bbf52c7c4fa7366010527f",
+    "_id": "63e61d1e2e834802d12cc37d",
+    "_parentId": "63e61d1e2e834802d12cc318",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5538,8 +4487,8 @@
     "title": "Select suspicious parts of the image below.",
     "displayTitle": "Select suspicious parts of the image below.",
     "body": "<p>You receive an email while at work.<br><br>Click on anything that just doesn't look right and that you believe you should be suspicious of</p>",
-    "_id": "63bc117d6ae3612459861204",
-    "_parentId": "63bc117d6ae3612459861203",
+    "_id": "63e61d1e2e834802d12cc37e",
+    "_parentId": "63e61d1e2e834802d12cc319",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5658,8 +4607,8 @@
     "title": "Multiple Choice Question",
     "displayTitle": "",
     "body": "<p>Social media can be an excellent resource for hackers and cyber criminals.<br><br>Social media is full of information that can allow them to impersonate and convince you and others of their legitimacy.</p>",
-    "_id": "63bc1bb12e218375c476af29",
-    "_parentId": "63906cdef48c9c28b00b3357",
+    "_id": "63e61d1e2e834802d12cc37f",
+    "_parentId": "63e61d1d2e834802d12cc2f6",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -5782,8 +4731,8 @@
     "title": "Fill in the Blanks",
     "displayTitle": "Fill in the Blanks",
     "body": "",
-    "_id": "63bc2c71d6f28f6c1f2859cf",
-    "_parentId": "63906cdff48c9c28b00b335a",
+    "_id": "63e61d1e2e834802d12cc380",
+    "_parentId": "63e61d1d2e834802d12cc2f9",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5940,8 +4889,8 @@
     "title": "Graphic",
     "displayTitle": "",
     "body": "",
-    "_id": "63bc3805d6f28f6c1f2859e0",
-    "_parentId": "63bc37f4508d951ae064c28c",
+    "_id": "63e61d1e2e834802d12cc381",
+    "_parentId": "63e61d1e2e834802d12cc31a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5992,8 +4941,8 @@
     "title": "Windows Login",
     "displayTitle": "",
     "body": "",
-    "_id": "63bd48df3aa3ee120c44be85",
-    "_parentId": "63bd48b44275f97cd8d594d6",
+    "_id": "63e61d1e2e834802d12cc382",
+    "_parentId": "63e61d1e2e834802d12cc31b",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -6044,8 +4993,8 @@
     "title": "Question Text",
     "displayTitle": "",
     "body": "<p>You have a work laptop and you need to access your work emails from a local coffee shop.&nbsp;<br><br>Which icon should you select when you come to log into the laptop?</p>",
-    "_id": "63bd490940952d11f352e17f",
-    "_parentId": "63bd48b44275f97cd8d594d6",
+    "_id": "63e61d1e2e834802d12cc383",
+    "_parentId": "63e61d1e2e834802d12cc31b",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -6085,8 +5034,8 @@
     "title": "Which sentence best describes a virtual private network (VPN)",
     "displayTitle": "Which sentence best describes a virtual private network (VPN)",
     "body": "",
-    "_id": "63bd4d83da9dc71bfc2e29ee",
-    "_parentId": "63906d1c86cb843f201693bc",
+    "_id": "63e61d1e2e834802d12cc384",
+    "_parentId": "63e61d1d2e834802d12cc302",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6193,10 +5142,10 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Graphic",
-    "displayTitle": "Graphic",
+    "displayTitle": "",
     "body": "",
-    "_id": "63bd6c078c90b61c0292ecaa",
-    "_parentId": "63bd6bfd2980ef1e0602428c",
+    "_id": "63e61d1e2e834802d12cc385",
+    "_parentId": "63e61d1e2e834802d12cc31c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6206,6 +5155,10 @@
     },
     "_learningObjectives": {
       "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -6217,16 +5170,12 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/62611f05c22a461649847659.png",
-      "small": "course/en/assets/62611f05c22a461649847659.png",
+      "large": "course/en/assets/63f34980bd9c424403667310.png",
+      "small": "course/en/assets/63f34980bd9c424403667310.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -6244,34 +5193,17 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "In this module:",
-    "displayTitle": "In this module:",
-    "body": "<p>What is cyber security?<br>Why is cyber security important?</p><p>Who are North Tyneside Council at risk from?</p>",
-    "_id": "63c1389a40952d11f3530588",
-    "_parentId": "63c1388d2980ef1e06025dc0",
+    "title": "Module Learning Objectives:",
+    "displayTitle": "Module Learning Objectives:",
+    "body": "<p>By the end of this module you will be able to...</p><p>&nbsp;</p><p>... recognise the need for cyber security and differentiate between it's perpetrators.</p>",
+    "_id": "63e61d1e2e834802d12cc386",
+    "_parentId": "63e61d1e2e834802d12cc31d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_learningObjectives": {
-      "_code": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
     },
     "instruction": ""
   },
@@ -6288,8 +5220,8 @@
     "title": "Media",
     "displayTitle": "",
     "body": "",
-    "_id": "63d2451b968fa974c0f86a72",
-    "_parentId": "63d243c33e94da24fecb23de",
+    "_id": "63e61d1e2e834802d12cc387",
+    "_parentId": "63e61d1e2e834802d12cc31e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6360,8 +5292,8 @@
     "title": "Media",
     "displayTitle": "",
     "body": "",
-    "_id": "63d25dedf577f324d54fd427",
-    "_parentId": "63d25de7e2de5a072abc7f4b",
+    "_id": "63e61d1e2e834802d12cc388",
+    "_parentId": "63e61d1e2e834802d12cc31f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6432,8 +5364,8 @@
     "title": "Media",
     "displayTitle": "",
     "body": "",
-    "_id": "63d26dd06c6eb3782e5a2f2a",
-    "_parentId": "63692a56f0c4f52fb401c3fa",
+    "_id": "63e61d1e2e834802d12cc389",
+    "_parentId": "63e61d1d2e834802d12cc2c0",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -6490,5 +5422,1786 @@
       "transcriptLink": ""
     },
     "_playerOptions": null
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Flipcard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63e6283524249640295156de",
+    "_parentId": "63e62593178ae671e8abdeb7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/63e628476333894d4325352d.png"
+        },
+        "backTitle": "Simulated video completion.",
+        "backBody": "<p>You have completed the video, click 'Next' below to access the assessment for this module</p>"
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Flipcard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63e62978180ded43d16c0510",
+    "_parentId": "63e62978180ded43d16c050f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/63e628476333894d4325352d.png"
+        },
+        "backTitle": "Simulated video completion.",
+        "backBody": "<p>You have completed the video, click 'Next' below to access the assessment for this module</p>"
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Flipcard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63e629817628e8558bb0ff0f",
+    "_parentId": "63e629817628e8558bb0ff0e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/63e628476333894d4325352d.png"
+        },
+        "backTitle": "Simulated video completion.",
+        "backBody": "<p>You have completed the video, click 'Next' below to access the assessment for this module</p>"
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Flipcard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63e6299102033630c3636a00",
+    "_parentId": "63e6299102033630c36369ff",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/63e628476333894d4325352d.png"
+        },
+        "backTitle": "Simulated video completion.",
+        "backBody": "<p>You have completed the video, click 'Next' below to access the assessment for this module</p>"
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Flipcard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63e629993e94da24fecb756d",
+    "_parentId": "63e629993e94da24fecb756c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/63e628476333894d4325352d.png"
+        },
+        "backTitle": "Simulated video completion.",
+        "backBody": "<p>You have completed the video, click 'Next' below to access the assessment for this module</p>"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63e62a2b9ee15026585ff0b8",
+    "_parentId": "63e62a2447519e69aebbbcd2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/63906a374e4cb41cfcfea84e.png",
+      "small": "course/en/assets/63906a374e4cb41cfcfea84e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Flipcard",
+    "displayTitle": "",
+    "body": "<p>This video will instruct learners on navigation of the LMS and course.&nbsp;<br><br>This is to minimise the need for community managers to field terchnical questions.</p>",
+    "_id": "63ef6c8cacb91777f62e794d",
+    "_parentId": "63e61d1d2e834802d12cc2bd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/63e628476333894d4325352d.png"
+        },
+        "backTitle": "Simulated video completion.",
+        "backBody": "<p>You have completed the video, click 'Home' below to be returned to the main menu.<br><br>Please note; you can return to this video at any time.</p>"
+      }
+    ]
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Responsive IFrame",
+    "displayTitle": "",
+    "body": "<p>Congradulations on reaching the end of module 1.</p><p>&nbsp;</p><p>We'd encourage you to share any thoughts, questions or comments about the module in the area below.</p>",
+    "_id": "63ef780547519e69aebbd990",
+    "_parentId": "63ef780547519e69aebbd98f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_source": "https://padlet.com/muchdorru/module-1-what-iscyber-security-nlauwg3b9wynp8jj",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 1000,
+      "_medium": 1000,
+      "_large": 1000
+    },
+    "_height": {
+      "_small": 500,
+      "_medium": 500,
+      "_large": 500
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63ef7827d402d30676b7136b",
+    "_parentId": "63ef7827d402d30676b7136a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Additional reading and infomation about this topic can be found here:",
+    "displayTitle": "",
+    "body": "<p><a href=\"https://www.ncsc.gov.uk/section/about-ncsc/what-is-cyber-security\" target=\"_blank\" rel=\"noopener noreferrer\">ncsc - What is Cyber Security?</a></p><p>&nbsp;</p><p><a href=\"https://www.pbs.org/wgbh/nova/labs/lab/cyber/\" target=\"_blank\" rel=\"noopener noreferrer\">Cyber Security Game - Nova Labs</a></p>",
+    "_id": "63ef794dd402d30676b71370",
+    "_parentId": "63ef780547519e69aebbd98f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Responsive IFrame",
+    "displayTitle": "",
+    "body": "<p>Congradulations on reaching the end of module 2.</p><p>&nbsp;</p><p>We'd encourage you to share any thoughts, questions or comments about the module in the area below.</p>",
+    "_id": "63ef7c372559b27ea793a6de",
+    "_parentId": "63ef7c372559b27ea793a6dd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_source": "https://padlet.com/muchdorru/module-2-gdpr-personal-data-gnh469e6sas58mb6",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 1000,
+      "_medium": 1000,
+      "_large": 1000
+    },
+    "_height": {
+      "_small": 500,
+      "_medium": 500,
+      "_large": 500
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Additional reading and infomation about this topic can be found here:",
+    "displayTitle": "",
+    "body": "<p><a href=\"https://gdpr-info.eu/\" target=\"_blank\" rel=\"noopener noreferrer\">Full GDPR</a></p><p>&nbsp;</p><p><a href=\"https://www.dataprotection.ie/sites/default/files/uploads/2019-04/The-GDPR-and-You-2.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">GDPR and you</a></p>",
+    "_id": "63ef7c372559b27ea793a6df",
+    "_parentId": "63ef7c372559b27ea793a6dd",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63ef7c3d2bb4bd4b154c2755",
+    "_parentId": "63ef7c3d2bb4bd4b154c2754",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Responsive IFrame",
+    "displayTitle": "",
+    "body": "<p>Congradulations on reaching the end of module 3.</p><p>&nbsp;</p><p>We'd encourage you to share any thoughts, questions or comments about the module in the area below.</p>",
+    "_id": "63ef7cf82bb4bd4b154c2758",
+    "_parentId": "63ef7cf82bb4bd4b154c2757",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_source": "https://padlet.com/muchdorru/remake-of-module-3-handling-personal-data-917mzltawvumvknt",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 1000,
+      "_medium": 1000,
+      "_large": 1000
+    },
+    "_height": {
+      "_small": 500,
+      "_medium": 500,
+      "_large": 500
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Additional reading and infomation about this topic can be found here:",
+    "displayTitle": "",
+    "body": "<p><a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/\" target=\"_blank\" rel=\"noopener noreferrer\">Data Subject Rights</a></p><p>&nbsp;</p><p><a href=\"https://www.cqc.org.uk/guidance-providers/all-services/check-way-you-handle-personal-information-meets-right-standards-0\" target=\"_blank\" rel=\"noopener noreferrer\">Handling Personal Data - Guidelines</a></p>",
+    "_id": "63ef7cf82bb4bd4b154c2759",
+    "_parentId": "63ef7cf82bb4bd4b154c2757",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63ef7d46e2de5a072abd1083",
+    "_parentId": "63ef7d46e2de5a072abd1082",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Responsive IFrame",
+    "displayTitle": "",
+    "body": "<p>Congradulations on reaching the end of module 4.</p><p>&nbsp;</p><p>We'd encourage you to share any thoughts, questions or comments about the module in the area below.</p>",
+    "_id": "63ef7f9c85d4e534467c434e",
+    "_parentId": "63ef7f9c85d4e534467c434d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_source": "https://padlet.com/muchdorru/remake-of-remake-of-module-4-passwords-xcypbw4p6vohbeq0",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 1000,
+      "_medium": 1000,
+      "_large": 1000
+    },
+    "_height": {
+      "_small": 500,
+      "_medium": 500,
+      "_large": 500
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Additional reading and infomation about this topic can be found here:",
+    "displayTitle": "",
+    "body": "<p><a href=\"https://www.passwordmonster.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Password Strength Tester (DO NOT USE YOUR CURRENT PASSWORD)</a></p><p>&nbsp;</p><p><a href=\"https://www.digicert.com/blog/3-reasons-for-strong-password-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Why password strength matters.</a></p>",
+    "_id": "63ef7f9c85d4e534467c434f",
+    "_parentId": "63ef7f9c85d4e534467c434d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Blank",
+    "displayTitle": "Blank",
+    "body": "",
+    "_id": "63ef7fa2e2ab574dbeb732bd",
+    "_parentId": "63ef7fa2e2ab574dbeb732bc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Module Learning Objectives:",
+    "displayTitle": "Module Learning Objectives:",
+    "body": "<p>By the end of this module you will be able to...</p><p>&nbsp;</p><p>... identify personal data as defined by UKGDPR&nbsp;</p>",
+    "_id": "63ef8299e2de5a072abd1088",
+    "_parentId": "63ef8299e2de5a072abd1087",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Module Learning Objectives:",
+    "displayTitle": "Module Learning Objectives:",
+    "body": "<p>By the end of this module you will be able to...</p><p>&nbsp;</p><p>... review North-Tyneside's procedures for handling data.</p>",
+    "_id": "63ef82e10e8ffd70ddcb3545",
+    "_parentId": "63ef82e10e8ffd70ddcb3544",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Module Learning Objectives:",
+    "displayTitle": "Module Learning Objectives:",
+    "body": "<p>By the end of this module you will be able to...</p><p>&nbsp;</p><p>... compare the strengths of passwords.</p>",
+    "_id": "63ef832847519e69aebbd996",
+    "_parentId": "63ef832847519e69aebbd995",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphical Multiple Choice Question",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63f34a0c1963cb21f1b1b239",
+    "_parentId": "63e61d1d2e834802d12cc305",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/63f34c114c55fc06f47a535b.png",
+          "small": "course/en/assets/63f34c114c55fc06f47a535b.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "Incorrect. This website is missing the 's' after 'http'. S means secure. Never trust a website that doesn't start with 'https'",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/63f34c5368a3b186733b28ff.png",
+          "small": "course/en/assets/63f34c5368a3b186733b28ff.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "Correct. This website has the 's' after 'http'. S means secure. Never trust a website that doesn't start with 'https'",
+        "_score": 1
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "yesNo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Yes/No",
+    "displayTitle": "",
+    "body": "<p>Select the methods of storing information that are permitted in North Tyneside Council.</p>",
+    "_id": "63f34d07d402d30676b71775",
+    "_parentId": "63e61d1d2e834802d12cc308",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_feedback": {
+      "instruction": "",
+      "_correct": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      },
+      "_partlyCorrect": {
+        "title": "",
+        "text": ""
+      },
+      "_incorrect": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      }
+    },
+    "_useClassicFeedback": false,
+    "timerSeconds": 30,
+    "_disableFlashingTimer": false,
+    "_disableTimer": false,
+    "_displayImagesOn": "Right",
+    "_images": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f36ced4d8a718bae87b3e8.png",
+          "alt": "Microsoft Teams"
+        },
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f36ced2fd4e91674bcb5c4.png",
+          "alt": "SharePoint"
+        },
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f36cedd7ff18f7b5e75f3a.png",
+          "alt": "Google Drive"
+        },
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f36cedfbc3f58c57c90edb.png",
+          "alt": "OneDrive"
+        },
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f36eb7bd9c42440366731f.png",
+          "alt": "On your personal laptop"
+        },
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f36ecd68a3b186733b2911.png",
+          "alt": "On your work laptop"
+        },
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f36cedd3748a110993172c.png",
+          "alt": "USB stick"
+        },
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_buttons": {
+      "_disableIcons": false,
+      "_yes": {
+        "buttonText": "Yes",
+        "ariaLabel": "Yes",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      "_no": {
+        "buttonText": "No",
+        "ariaLabel": "No",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      "_start": {
+        "buttonText": "Start",
+        "ariaLabel": "Start"
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": "Reset"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Select the correct statement.",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63f37045dfd7b42845cddece",
+    "_parentId": "63e61d1d2e834802d12cc30b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "You can revoke someone's access to a file you have emailed to them.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "You can revoke someone's access to a file you have shared with them via teams.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct. Once you've sent an email with an attached file, it's out of your control. Via teams we can remove or edit access at any time.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect. Once you've sent an email with an attached file, it's out of your control. Via teams we can remove or edit access at any time.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "You're wanting to share a document with your team. Select the best place to put it.",
+    "displayTitle": "You're wanting to share a document with your team. Select the best place to put it.",
+    "body": "",
+    "_id": "63f3712833628b28b58d6338",
+    "_parentId": "63e61d1e2e834802d12cc30e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "On your work laptop",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "On Microsoft Teams",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "On a USB stick",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Print it off and leave it in the officer for them to find",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's correct.&nbsp;<br>By uploading it to Microsoft Teams, your team has access to it, it can be collaborated on and access can be removed or edited at any time.</p>",
+      "_incorrect": {
+        "final": "<p>That's incorrect.&nbsp;<br>By uploading it to Microsoft Teams, your team has access to it, it can be collaborated on and access can be removed or edited at any time.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "yesNo",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Yes/No",
+    "displayTitle": "",
+    "body": "<p>Choose the correct email account to use for each of these activities. (Work email account vs Personal email account)</p>",
+    "_id": "63f3728722f8d30a88225e8b",
+    "_parentId": "63e61d1e2e834802d12cc311",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_feedback": {
+      "instruction": "",
+      "_correct": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      },
+      "_partlyCorrect": {
+        "title": "",
+        "text": ""
+      },
+      "_incorrect": {
+        "title": "",
+        "text": "",
+        "icon": ""
+      }
+    },
+    "_useClassicFeedback": false,
+    "timerSeconds": 30,
+    "_disableFlashingTimer": false,
+    "_disableTimer": false,
+    "_displayImagesOn": "Right",
+    "_images": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f383f9564615e7d13fe0b8.png",
+          "alt": "Sharing Photos with Friends and Family"
+        },
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f383f968a3b186733b2919.png",
+          "alt": "Meeting Invites"
+        },
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f383f9ec12775c16be712d.png",
+          "alt": "Setting Up Online Banking"
+        },
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f383f9ed7c3efa0a7222a8.png",
+          "alt": "Online Shopping"
+        },
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f383f94d8a718bae87b3ef.png",
+          "alt": "Reply to Work Email"
+        },
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/63f383f98c34de0f31ccd4c6.png",
+          "alt": "Sensitive Documents and Files"
+        },
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_buttons": {
+      "_disableIcons": false,
+      "_yes": {
+        "buttonText": "Work Email Account",
+        "ariaLabel": "Work Email Account",
+        "_graphic": {
+          "src": "course/en/assets/63f377bf8c34de0f31ccd4c3.png",
+          "alt": ""
+        }
+      },
+      "_no": {
+        "buttonText": "Personal Email Account",
+        "ariaLabel": "Personal Email Account",
+        "_graphic": {
+          "src": "course/en/assets/63f377bf68a3b186733b2916.png",
+          "alt": ""
+        }
+      },
+      "_start": {
+        "buttonText": "Start",
+        "ariaLabel": "Start"
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": "Reset"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choose the correct Statement",
+    "displayTitle": "Choose the correct Statement",
+    "body": "",
+    "_id": "63f384c7e2de5a072abd18b6",
+    "_parentId": "63e61d1e2e834802d12cc314",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "It is always permitted to send emails between your work email account and your personal email account.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It is sometimes permitted to send emails between your work email account and your personal email account.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "It is never permitted to send emails between your work email account and your personal email account.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!<br>It is <strong>never </strong>permitted to send an email between personal and work email accounts. IT has no control over the security of your personal email account and because of that, the information you are sending may not be safe from cyber criminals.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect!<br>It is <strong>never </strong>permitted to send an email between personal and work email accounts. IT has no control over the security of your personal email account and because of that, the information you are sending may not be safe from cyber criminals.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "You are wanting to include some colleagues in an email, but don't want them to see each other's email accounts, where on the email should to place their email addresses?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "63f3858b9ee1502658601a46",
+    "_parentId": "63e61d1e2e834802d12cc317",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_learningObjectives": {
+      "_code": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "To:",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "CC:",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "BCC:",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!<br><strong>BCC </strong>will allow all of the recipients to see the content of the email without exposing the other recipient's email addresses to each other.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect!<br><strong>BCC </strong>will allow all of the recipients to see the content of the email without exposing the other recipient's email addresses to each other.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   }
 ]

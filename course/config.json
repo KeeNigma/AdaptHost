@@ -8,8 +8,8 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "_disableAnimationFor": [],
-  "_id": "636528cd4e4ad83058b453b9",
-  "_courseId": "636528cd4e4ad83058b453b8",
+  "_id": "63e61d1e2e834802d12cc38a",
+  "_courseId": "63e61d1d2e834802d12cc260",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
@@ -40,7 +40,6 @@
     "_requireContentCompleted": true,
     "_requireAssessmentCompleted": false
   },
-  "__v": 0,
   "_logging": {
     "_isEnabled": true,
     "_level": "info",
@@ -55,7 +54,7 @@
     "strictMode": true,
     "targets": "",
     "includes": [
-      "544e690c535f280971f053cf-636528cd4e4ad83058b453b8",
+      "544e690c535f280971f053cf-63e61d1d2e834802d12cc260",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-learningObjectives",
       "adapt-contrib-spoor",
@@ -65,21 +64,25 @@
       "adapt-contrib-dyslexia-helper",
       "adapt-contrib-tutor",
       "adapt-contrib-resources",
-      "adapt-contrib-blank",
+      "adapt-contrib-glossary",
       "adapt-contrib-matching",
       "adapt-contrib-gmcq",
       "adapt-contrib-graphic",
       "adapt-component-fillInTheBlanks",
+      "adapt-contrib-blank",
       "adapt-contrib-media",
       "adapt-contrib-mcq",
       "adapt-yesNo",
       "adapt-contrib-hiddenHotspots",
       "adapt-contrib-stacker",
       "adapt-contrib-text",
+      "adapt-contrib-flipcard",
+      "adapt-contrib-responsiveIframe",
       "adapt-vimeo",
       "adapt-youtube"
     ]
   },
+  "__v": 1,
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
